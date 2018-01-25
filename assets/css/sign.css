@@ -1,19 +1,7 @@
-@media (max-width: 768px) {
-    .logo{
-        display: none;
-    }
-    html,body{
-        background-color: #fff!important;
-    }
-    .main{
-        box-shadow: none;
-        margin: 0 auto;
-    }
-}
-html,body{
-    height: 100%;
-    background-color: #f1f1f1!important;
-}
+/*html,body{*/
+    /*height: 100%;*/
+    /*background-color: #f1f1f1!important;*/
+/*}*/
 .sign {
     height: 100%;
     font-size: 14px;
@@ -179,4 +167,16 @@ html,body{
     border-radius: 20px;
     opacity: .8;
     color: #fff!important;
+}
+@media (max-width: 768px) {
+    .logo{
+        display: none;
+    }
+    #sign-template{
+        background-color: #fff;
+    }
+    .main{
+        box-shadow: none;
+        margin: 0 auto;
+    }
 }
