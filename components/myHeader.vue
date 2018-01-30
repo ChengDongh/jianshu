@@ -267,7 +267,7 @@
         font-size: 18px;
     }
     nav .nav-list{
-        margin: 0;
+        margin: 0 -15px;
         padding: 0;
     }
     nav .nav-list:after{
@@ -375,6 +375,7 @@
     }
     nav .nav-list .notify .drop-menu{
         position: absolute;
+        background: #fff;
         z-index: 999;
         left: 0;
         min-width: 160px;
