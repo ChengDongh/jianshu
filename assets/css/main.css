@@ -493,4 +493,188 @@ ul,ol,dl{
 .note .post .article .follow-detail .following{
     background: none;
 }
+.note .post .article .follow-detail .title{
+    font-size: 17px;
+    line-height: 1.8;
+    margin-right: 5px;
+    font-weight: 400;
+}
+.note .post .article .follow-detail .info>i{
+    color: #3194d0;
+    font-size: 15px;
+}
+.note .post .article .follow-detail .info p{
+    color: #969696;
+    margin-bottom: 0;
+    font-size: 12px;
+}
+.note .post .article .follow-detail .signature{
+    padding-top: 20px;
+    margin-top: 20px;
+    border-top: 1px solid #ddd;
+    color: #969696;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 12px;
+}
+.note .post .article .meta-bottom{
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+.note .post .article .meta-bottom .like{
+    display: inline-block;
+}
+.note .post .article .meta-bottom .like .active{
+    background: #ea6f5a!important;
+}
+.note .post .article .meta-bottom .share-group{
+    float: right;
+}
+.note .post .article .meta-bottom .like-group{
+    border: 1px solid #ea6f5a;
+    padding: 13px 0 15px;
+    border-radius: 40px;
+}
+/*.note .post .article .meta-bottom .active{*/
+    /*background: #ea6f5a;*/
+/*}*/
+.note .post .article .meta-bottom .active .btn-like{
+    color: #fff!important;
+}
+.note .post .article .meta-bottom .active .btn-like a i {
+    color: #fff;
+}
+.note .post .article .meta-bottom .active .modal-wrap{
+    font-size: 18px;
+    display: inline-block;
+    border-left: 1px solid #fff!important;
+    color: #fff!important;
+}
+.note .post .article .meta-bottom .like-group:hover{
+    background-color: rgb(254,247,245);
+}
+.note .post .article .meta-bottom .like-group .btn-like{
+    display: inline-block;
+    font-size: 19px;
+    color: #ea6f5a;
+}
+.note .post .article .meta-bottom .like-group .btn-like a{
+    padding: 18px 15px 18px 30px;
+}
+.note .post .article .meta-bottom .like-group .btn-like a i{
+    margin-right: 5px;
+}
+.note .post .article .meta-bottom .like-group .modal-wrap{
+    font-size: 18px;
+    display: inline-block;
+    border-left: 1px solid #ea6f5a;
+    color: #ea6f5a;
+}
+.note .post .article .meta-bottom .like-group .modal-wrap a{
+    padding: 18px 30px 18px 17px;
+}
+.note .post .article .meta-bottom .share-group {
+    position: relative;
+}
+.note .post .article .meta-bottom .share-group a{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    line-height: 52px;
+    text-align: center;
+    border: 1px solid #dcdcdc;
+    border-radius: 50%;
+    background: #fff;
+    margin-left: 5px;
+    vertical-align: middle;
+}
+.note .post .article .meta-bottom .share-group a:hover{
+    background: rgb(248,248,248);
+}
+.note .post .article .meta-bottom .share-group a i{
+    font-size: 20px;
+}
+.weixin{
+    color: #00bb29;
+}
+.qq{
+    color: #498ad5;
+}
+.weibo{
+    color: #e05244;
+}
+.note .post .article .meta-bottom .share-group .more-share{
+    width:auto;
+    line-height: 40px;
+    font-size: 14px;
+    padding: 4px 18px;
+    border-radius: 40px;
+    color: #969696!important;
+}
+.note .post .article .meta-bottom .share-group .popover{
+    width: 156px;
+    height: 159px;
+    background-color: white;
+    border: 1px solid #ccc;
+    position: absolute;
+    /*overflow: hidden;*/
+    top: -170px;
+    left: 140px;
+    box-shadow: 0 6px 8px rgba(0,0,0,.1);
+}
+.note .post .article .meta-bottom .share-group .popover:after{
+    content: "";
+    position: absolute;
+    top: 157px;
+    left: 65px;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #fff;
+}
+.note .post .article .meta-bottom .share-group .popover-list{
+    margin: 2px 0 2px 0;
+    padding: 0;
+    border-radius: 6px;
+    overflow: hidden;
+}
+.note .post .article .meta-bottom .share-group .popover-list li:hover{
+    background-color: rgb(248,248,248);
+}
+.note .post .article .meta-bottom .share-group .popover-list li a{
+    display: block;
+    width: 100%;
+    height: 31px;
+    line-height: 31px;
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+    border: none;
+}
+.note .post .article .meta-bottom .share-group .popover-list li a i{
+    margin-right: 6px;
+    vertical-align: middle;
+    font-size: 15px;
+    padding-bottom: 4px;
+}
+.note .post .article .meta-bottom .share-group .popover-list li a span{
+    display: inline-block;
+    width: 101px;
+    text-align: left;
+}
+.star{
+    color: rgb(254,200,1);
+}
+.twitter{
+    color: rgb(0,170,236);
+}
+.facebook{
+    display: inline-block;
+    width: 15px;
+    color: #fff;
+    background-color: rgb(68,96,160);
+}
+.google{
+    color: rgb(250,63,45);
+}
 /*用户页面*/

@@ -1,12 +1,14 @@
 <template>
-    <div>
+    <div @click="shareShow">
         <my-header></my-header>
         <div class="note">
             <!--文章区域-->
             <div class="post">
                 <!--正文-->
                 <div class="article">
-                    <h1 class="title">月薪三千，就该去死吗？</h1>
+                    <h1 class="title">
+                        月薪三千，就该去死吗？
+                    </h1>
                     <div class="author">
                         <nuxt-link class="avatar" to="/u/123">
                             <img src="../../assets/img/default-avatar.jpg">
@@ -66,6 +68,78 @@
                             为城市里的不安和孤寂发声。 微信公众号：得及
                         </div>
                     </div>
+                    <div class="meta-bottom">
+                        <div class="like">
+                            <div class="btn like-group" :class="{active:like}">
+                                <div class="btn-like" @click="groupColor">
+                                    <a href="javascript:void (0)">
+                                        <i class="fa fa-heart-o"></i>
+                                        <span>喜欢</span>
+                                    </a>
+                                </div>
+                                <div class="modal-wrap">
+                                    <a ref="text">34</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="share-group">
+                            <a id="weixin" variant="primary" href="javascript:void (0)">
+                                <i class="fa fa-weixin weixin"></i>
+                            </a>
+                            <b-tooltip target="weixin" placement="top">
+                                <strong>分享到微信</strong>
+                            </b-tooltip>
+                            <a id="weibo" variant="primary" href="javascript:void (0)">
+                                <i class="fa fa-weibo weibo"></i>
+                            </a>
+                            <b-tooltip class="hint" target="weibo" placement="top">
+                                <strong>分享到微博</strong>
+                            </b-tooltip>
+                            <a id="qq" variant="primary" href="javascript:void (0)">
+                                <i class="fa fa-qq qq"></i>
+                            </a>
+                            <b-tooltip class="hint" target="qq" placement="top">
+                                <strong>分享到QQ</strong>
+                            </b-tooltip>
+                            <a href="javascript:void (0)" class="more-share" @click.stop="shareShow">
+                                更多分享
+                            </a>
+                            <div class="popover" v-show="popoverShow">
+                                <ul class="popover-list">
+                                    <li class="radius-top">
+                                        <a href="javascript:void (0)">
+                                            <i class="fa fa-star star"></i>
+                                            <span>分享到QQ空间</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:void (0)">
+                                            <i class="fa fa-twitter twitter"></i>
+                                            <span>分享到Twitter</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:void (0)">
+                                            <i class="fa fa-facebook facebook"></i>
+                                            <span>分享到Facebook</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:void (0)">
+                                            <i class="fa fa-google google"></i>
+                                            <span>分享到Google+</span>
+                                        </a>
+                                    </li>
+                                    <li class="radius-bottom">
+                                        <a href="javascript:void (0)">
+                                            <i class="fa fa-google google"></i>
+                                            <span>分享到豆瓣</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <!--悬浮的操作框-->
@@ -89,7 +163,9 @@
                 iconObj:{
                     'fa-plus-square-o':true,
                     'fa-check':false
-                }
+                },
+                like:false,
+                popoverShow:false
             }
         },
         components:{
@@ -123,7 +199,18 @@
                     this.$refs.followWord2.innerHTML = '已关注';
                     this.$refs.icon2.className = 'fa fa-check';
                 }
-            }
+            },
+            groupColor(){
+                this.like=!this.like
+                if(this.like==false){
+                    this.$refs.text.innerHTML='34'
+                }else {
+                    this.$refs.text.innerHTML='35'
+                }
+            },
+            shareShow(){
+                this.popoverShow=!this.popoverShow
+            },
         }
     }
 </script>
