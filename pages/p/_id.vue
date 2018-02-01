@@ -141,6 +141,8 @@
                         </div>
                     </div>
                 </div>
+                <!--回复组件-->
+                <my-comment></my-comment>
             </div>
             <!--悬浮的操作框-->
             <div class="side-bar"></div>
@@ -153,6 +155,7 @@
     /* eslint-disable indent */
 
     import myHeader from '../../components/myHeader'
+    import myComment from '../../components/myComment'
     export default{
         data(){
             return{
@@ -170,7 +173,8 @@
             }
         },
         components:{
-            myHeader
+            myHeader,
+            myComment
         },
         methods:{
             isFollow:function(){

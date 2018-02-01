@@ -2,6 +2,13 @@
 *{
     box-sizing: border-box;
 }
+.clearfix:after{
+    content: '';
+    display: block;
+    clear: both;
+    height: 0;
+    visibility: hidden;
+}
 html,body{
     height: 100%;
     background: #fff;
@@ -455,6 +462,9 @@ ul,ol,dl{
 }
 .note .post .article .show-content p{
     margin: 0 0 20px;
+}
+.note .post .article .show-foot{
+    margin-bottom: 30px;
 }
 .note .post .article .show-foot .notebook{
     font-size: 13px;
