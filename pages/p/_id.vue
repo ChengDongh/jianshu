@@ -1,5 +1,5 @@
 <template>
-    <div @click="shareShow">
+    <div @click="shareShows">
         <my-header></my-header>
         <div class="note">
             <!--文章区域-->
@@ -78,7 +78,7 @@
                                     </a>
                                 </div>
                                 <div class="modal-wrap">
-                                    <a ref="text">34</a>
+                                    <a>{{like_number}}</a>
                                 </div>
                             </div>
                         </div>
@@ -165,7 +165,8 @@
                     'fa-check':false
                 },
                 like:false,
-                popoverShow:false
+                popoverShow:false,
+                like_number:56
             }
         },
         components:{
@@ -201,16 +202,19 @@
                 }
             },
             groupColor(){
-                this.like=!this.like
                 if(this.like==false){
-                    this.$refs.text.innerHTML='34'
+                    this.like_number=this.like_number + 1
                 }else {
-                    this.$refs.text.innerHTML='35'
+                    this.like_number=this.like_number - 1
                 }
+                this.like=!this.like
             },
             shareShow(){
-                this.popoverShow=!this.popoverShow
+                this.popoverShow = !this.popoverShow
             },
+            shareShows(){
+                this.popoverShow = false
+            }
         }
     }
 </script>
