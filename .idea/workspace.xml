@@ -5,897 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2ced618-f835-458f-bdb9-a6e90b4dda61" name="Default" comment="头部导航完成">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/banner1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/emoji-sprite.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vueEmoji.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/data/emoji-data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/util/emoji.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/emoji-data.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/a-100.png" afterPath="$PROJECT_DIR$/static/emoji/a-100.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/a-1234.png" afterPath="$PROJECT_DIR$/static/emoji/a-1234.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/a-8ball.png" afterPath="$PROJECT_DIR$/static/emoji/a-8ball.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/a.png" afterPath="$PROJECT_DIR$/static/emoji/a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ab.png" afterPath="$PROJECT_DIR$/static/emoji/ab.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/abc.png" afterPath="$PROJECT_DIR$/static/emoji/abc.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/abcd.png" afterPath="$PROJECT_DIR$/static/emoji/abcd.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/accept.png" afterPath="$PROJECT_DIR$/static/emoji/accept.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/aerial_tramway.png" afterPath="$PROJECT_DIR$/static/emoji/aerial_tramway.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/agree.png" afterPath="$PROJECT_DIR$/static/emoji/agree.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/airplane.png" afterPath="$PROJECT_DIR$/static/emoji/airplane.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/alarm_clock.png" afterPath="$PROJECT_DIR$/static/emoji/alarm_clock.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/alien.png" afterPath="$PROJECT_DIR$/static/emoji/alien.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ambulance.png" afterPath="$PROJECT_DIR$/static/emoji/ambulance.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/anchor.png" afterPath="$PROJECT_DIR$/static/emoji/anchor.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/angel.png" afterPath="$PROJECT_DIR$/static/emoji/angel.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/anger.png" afterPath="$PROJECT_DIR$/static/emoji/anger.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/angry.png" afterPath="$PROJECT_DIR$/static/emoji/angry.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/anguished.png" afterPath="$PROJECT_DIR$/static/emoji/anguished.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ant.png" afterPath="$PROJECT_DIR$/static/emoji/ant.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/apple.png" afterPath="$PROJECT_DIR$/static/emoji/apple.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/aquarius.png" afterPath="$PROJECT_DIR$/static/emoji/aquarius.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/aries.png" afterPath="$PROJECT_DIR$/static/emoji/aries.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_backward.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_backward.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_double_down.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_double_down.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_double_up.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_double_up.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_down.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_down.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_down_small.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_down_small.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_forward.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_forward.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_heading_down.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_heading_down.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_heading_up.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_heading_up.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_left.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_left.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_lower_left.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_lower_left.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_lower_right.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_lower_right.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_right.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_right.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_right_hook.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_right_hook.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_up.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_up.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_up_down.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_up_down.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_up_small.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_up_small.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_upper_left.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_upper_left.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrow_upper_right.png" afterPath="$PROJECT_DIR$/static/emoji/arrow_upper_right.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrows_clockwise.png" afterPath="$PROJECT_DIR$/static/emoji/arrows_clockwise.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/arrows_counterclockwise.png" afterPath="$PROJECT_DIR$/static/emoji/arrows_counterclockwise.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/art.png" afterPath="$PROJECT_DIR$/static/emoji/art.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/articulated_lorry.png" afterPath="$PROJECT_DIR$/static/emoji/articulated_lorry.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/astonished.png" afterPath="$PROJECT_DIR$/static/emoji/astonished.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/atm.png" afterPath="$PROJECT_DIR$/static/emoji/atm.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/b.png" afterPath="$PROJECT_DIR$/static/emoji/b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/baby.png" afterPath="$PROJECT_DIR$/static/emoji/baby.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/baby_bottle.png" afterPath="$PROJECT_DIR$/static/emoji/baby_bottle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/baby_chick.png" afterPath="$PROJECT_DIR$/static/emoji/baby_chick.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/baby_symbol.png" afterPath="$PROJECT_DIR$/static/emoji/baby_symbol.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/back.png" afterPath="$PROJECT_DIR$/static/emoji/back.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/baggage_claim.png" afterPath="$PROJECT_DIR$/static/emoji/baggage_claim.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/balloon.png" afterPath="$PROJECT_DIR$/static/emoji/balloon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ballot_box_with_check.png" afterPath="$PROJECT_DIR$/static/emoji/ballot_box_with_check.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bamboo.png" afterPath="$PROJECT_DIR$/static/emoji/bamboo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/banana.png" afterPath="$PROJECT_DIR$/static/emoji/banana.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bangbang.png" afterPath="$PROJECT_DIR$/static/emoji/bangbang.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bank.png" afterPath="$PROJECT_DIR$/static/emoji/bank.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bar_chart.png" afterPath="$PROJECT_DIR$/static/emoji/bar_chart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/barber.png" afterPath="$PROJECT_DIR$/static/emoji/barber.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/baseball.png" afterPath="$PROJECT_DIR$/static/emoji/baseball.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/basketball.png" afterPath="$PROJECT_DIR$/static/emoji/basketball.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bath.png" afterPath="$PROJECT_DIR$/static/emoji/bath.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bathtub.png" afterPath="$PROJECT_DIR$/static/emoji/bathtub.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/battery.png" afterPath="$PROJECT_DIR$/static/emoji/battery.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bear.png" afterPath="$PROJECT_DIR$/static/emoji/bear.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bee.png" afterPath="$PROJECT_DIR$/static/emoji/bee.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/beer.png" afterPath="$PROJECT_DIR$/static/emoji/beer.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/beers.png" afterPath="$PROJECT_DIR$/static/emoji/beers.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/beetle.png" afterPath="$PROJECT_DIR$/static/emoji/beetle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/beginner.png" afterPath="$PROJECT_DIR$/static/emoji/beginner.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bell.png" afterPath="$PROJECT_DIR$/static/emoji/bell.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bento.png" afterPath="$PROJECT_DIR$/static/emoji/bento.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bicyclist.png" afterPath="$PROJECT_DIR$/static/emoji/bicyclist.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bike.png" afterPath="$PROJECT_DIR$/static/emoji/bike.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bikini.png" afterPath="$PROJECT_DIR$/static/emoji/bikini.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bird.png" afterPath="$PROJECT_DIR$/static/emoji/bird.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/birthday.png" afterPath="$PROJECT_DIR$/static/emoji/birthday.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/black_circle.png" afterPath="$PROJECT_DIR$/static/emoji/black_circle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/black_joker.png" afterPath="$PROJECT_DIR$/static/emoji/black_joker.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/black_medium_small_square.png" afterPath="$PROJECT_DIR$/static/emoji/black_medium_small_square.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/black_medium_square.png" afterPath="$PROJECT_DIR$/static/emoji/black_medium_square.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/black_nib.png" afterPath="$PROJECT_DIR$/static/emoji/black_nib.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/black_small_square.png" afterPath="$PROJECT_DIR$/static/emoji/black_small_square.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/black_square.png" afterPath="$PROJECT_DIR$/static/emoji/black_square.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/black_square_button.png" afterPath="$PROJECT_DIR$/static/emoji/black_square_button.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blossom.png" afterPath="$PROJECT_DIR$/static/emoji/blossom.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blowfish.png" afterPath="$PROJECT_DIR$/static/emoji/blowfish.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blue_book.png" afterPath="$PROJECT_DIR$/static/emoji/blue_book.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blue_car.png" afterPath="$PROJECT_DIR$/static/emoji/blue_car.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blue_heart.png" afterPath="$PROJECT_DIR$/static/emoji/blue_heart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blush.png" afterPath="$PROJECT_DIR$/static/emoji/blush.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/boar.png" afterPath="$PROJECT_DIR$/static/emoji/boar.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/boat.png" afterPath="$PROJECT_DIR$/static/emoji/boat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bomb.png" afterPath="$PROJECT_DIR$/static/emoji/bomb.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/book.png" afterPath="$PROJECT_DIR$/static/emoji/book.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bookmark.png" afterPath="$PROJECT_DIR$/static/emoji/bookmark.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bookmark_tabs.png" afterPath="$PROJECT_DIR$/static/emoji/bookmark_tabs.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/books.png" afterPath="$PROJECT_DIR$/static/emoji/books.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/boom.png" afterPath="$PROJECT_DIR$/static/emoji/boom.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/boot.png" afterPath="$PROJECT_DIR$/static/emoji/boot.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bouquet.png" afterPath="$PROJECT_DIR$/static/emoji/bouquet.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bow.png" afterPath="$PROJECT_DIR$/static/emoji/bow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bowling.png" afterPath="$PROJECT_DIR$/static/emoji/bowling.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bowtie.png" afterPath="$PROJECT_DIR$/static/emoji/bowtie.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/boy.png" afterPath="$PROJECT_DIR$/static/emoji/boy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bread.png" afterPath="$PROJECT_DIR$/static/emoji/bread.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bride_with_veil.png" afterPath="$PROJECT_DIR$/static/emoji/bride_with_veil.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bridge_at_night.png" afterPath="$PROJECT_DIR$/static/emoji/bridge_at_night.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/briefcase.png" afterPath="$PROJECT_DIR$/static/emoji/briefcase.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/broken_heart.png" afterPath="$PROJECT_DIR$/static/emoji/broken_heart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bug.png" afterPath="$PROJECT_DIR$/static/emoji/bug.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bulb.png" afterPath="$PROJECT_DIR$/static/emoji/bulb.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bullettrain_front.png" afterPath="$PROJECT_DIR$/static/emoji/bullettrain_front.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bullettrain_side.png" afterPath="$PROJECT_DIR$/static/emoji/bullettrain_side.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bus.png" afterPath="$PROJECT_DIR$/static/emoji/bus.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/busstop.png" afterPath="$PROJECT_DIR$/static/emoji/busstop.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/bust_in_silhouette.png" afterPath="$PROJECT_DIR$/static/emoji/bust_in_silhouette.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/busts_in_silhouette.png" afterPath="$PROJECT_DIR$/static/emoji/busts_in_silhouette.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cactus.png" afterPath="$PROJECT_DIR$/static/emoji/cactus.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cake.png" afterPath="$PROJECT_DIR$/static/emoji/cake.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/calendar.png" afterPath="$PROJECT_DIR$/static/emoji/calendar.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/calling.png" afterPath="$PROJECT_DIR$/static/emoji/calling.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/camel.png" afterPath="$PROJECT_DIR$/static/emoji/camel.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/camera.png" afterPath="$PROJECT_DIR$/static/emoji/camera.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cancer.png" afterPath="$PROJECT_DIR$/static/emoji/cancer.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/candy.png" afterPath="$PROJECT_DIR$/static/emoji/candy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/capital_abcd.png" afterPath="$PROJECT_DIR$/static/emoji/capital_abcd.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/capricorn.png" afterPath="$PROJECT_DIR$/static/emoji/capricorn.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/car.png" afterPath="$PROJECT_DIR$/static/emoji/car.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/card_index.png" afterPath="$PROJECT_DIR$/static/emoji/card_index.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/carousel_horse.png" afterPath="$PROJECT_DIR$/static/emoji/carousel_horse.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cat.png" afterPath="$PROJECT_DIR$/static/emoji/cat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cat2.png" afterPath="$PROJECT_DIR$/static/emoji/cat2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cd.png" afterPath="$PROJECT_DIR$/static/emoji/cd.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/chart.png" afterPath="$PROJECT_DIR$/static/emoji/chart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/chart_with_downwards_trend.png" afterPath="$PROJECT_DIR$/static/emoji/chart_with_downwards_trend.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/chart_with_upwards_trend.png" afterPath="$PROJECT_DIR$/static/emoji/chart_with_upwards_trend.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/checkered_flag.png" afterPath="$PROJECT_DIR$/static/emoji/checkered_flag.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cherries.png" afterPath="$PROJECT_DIR$/static/emoji/cherries.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cherry_blossom.png" afterPath="$PROJECT_DIR$/static/emoji/cherry_blossom.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/chestnut.png" afterPath="$PROJECT_DIR$/static/emoji/chestnut.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/chicken.png" afterPath="$PROJECT_DIR$/static/emoji/chicken.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/children_crossing.png" afterPath="$PROJECT_DIR$/static/emoji/children_crossing.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/chocolate_bar.png" afterPath="$PROJECT_DIR$/static/emoji/chocolate_bar.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/christmas_tree.png" afterPath="$PROJECT_DIR$/static/emoji/christmas_tree.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/church.png" afterPath="$PROJECT_DIR$/static/emoji/church.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cinema.png" afterPath="$PROJECT_DIR$/static/emoji/cinema.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/circus_tent.png" afterPath="$PROJECT_DIR$/static/emoji/circus_tent.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/city_sunrise.png" afterPath="$PROJECT_DIR$/static/emoji/city_sunrise.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/city_sunset.png" afterPath="$PROJECT_DIR$/static/emoji/city_sunset.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cl.png" afterPath="$PROJECT_DIR$/static/emoji/cl.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clap.png" afterPath="$PROJECT_DIR$/static/emoji/clap.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clapper.png" afterPath="$PROJECT_DIR$/static/emoji/clapper.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clipboard.png" afterPath="$PROJECT_DIR$/static/emoji/clipboard.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock1.png" afterPath="$PROJECT_DIR$/static/emoji/clock1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock10.png" afterPath="$PROJECT_DIR$/static/emoji/clock10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock1030.png" afterPath="$PROJECT_DIR$/static/emoji/clock1030.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock11.png" afterPath="$PROJECT_DIR$/static/emoji/clock11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock1130.png" afterPath="$PROJECT_DIR$/static/emoji/clock1130.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock12.png" afterPath="$PROJECT_DIR$/static/emoji/clock12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock1230.png" afterPath="$PROJECT_DIR$/static/emoji/clock1230.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock130.png" afterPath="$PROJECT_DIR$/static/emoji/clock130.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock2.png" afterPath="$PROJECT_DIR$/static/emoji/clock2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock230.png" afterPath="$PROJECT_DIR$/static/emoji/clock230.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock3.png" afterPath="$PROJECT_DIR$/static/emoji/clock3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock330.png" afterPath="$PROJECT_DIR$/static/emoji/clock330.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock4.png" afterPath="$PROJECT_DIR$/static/emoji/clock4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock430.png" afterPath="$PROJECT_DIR$/static/emoji/clock430.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock5.png" afterPath="$PROJECT_DIR$/static/emoji/clock5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock530.png" afterPath="$PROJECT_DIR$/static/emoji/clock530.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock6.png" afterPath="$PROJECT_DIR$/static/emoji/clock6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock630.png" afterPath="$PROJECT_DIR$/static/emoji/clock630.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock7.png" afterPath="$PROJECT_DIR$/static/emoji/clock7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock730.png" afterPath="$PROJECT_DIR$/static/emoji/clock730.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock8.png" afterPath="$PROJECT_DIR$/static/emoji/clock8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock830.png" afterPath="$PROJECT_DIR$/static/emoji/clock830.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock9.png" afterPath="$PROJECT_DIR$/static/emoji/clock9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clock930.png" afterPath="$PROJECT_DIR$/static/emoji/clock930.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/closed_book.png" afterPath="$PROJECT_DIR$/static/emoji/closed_book.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/closed_lock_with_key.png" afterPath="$PROJECT_DIR$/static/emoji/closed_lock_with_key.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/closed_umbrella.png" afterPath="$PROJECT_DIR$/static/emoji/closed_umbrella.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cloud.png" afterPath="$PROJECT_DIR$/static/emoji/cloud.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/clubs.png" afterPath="$PROJECT_DIR$/static/emoji/clubs.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cn.png" afterPath="$PROJECT_DIR$/static/emoji/cn.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cocktail.png" afterPath="$PROJECT_DIR$/static/emoji/cocktail.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/coffee.png" afterPath="$PROJECT_DIR$/static/emoji/coffee.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cold_sweat.png" afterPath="$PROJECT_DIR$/static/emoji/cold_sweat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/collision.png" afterPath="$PROJECT_DIR$/static/emoji/collision.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/computer.png" afterPath="$PROJECT_DIR$/static/emoji/computer.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/confetti_ball.png" afterPath="$PROJECT_DIR$/static/emoji/confetti_ball.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/confounded.png" afterPath="$PROJECT_DIR$/static/emoji/confounded.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/confused.png" afterPath="$PROJECT_DIR$/static/emoji/confused.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/congratulations.png" afterPath="$PROJECT_DIR$/static/emoji/congratulations.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/construction.png" afterPath="$PROJECT_DIR$/static/emoji/construction.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/construction_worker.png" afterPath="$PROJECT_DIR$/static/emoji/construction_worker.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/convenience_store.png" afterPath="$PROJECT_DIR$/static/emoji/convenience_store.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cookie.png" afterPath="$PROJECT_DIR$/static/emoji/cookie.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cool.png" afterPath="$PROJECT_DIR$/static/emoji/cool.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cop.png" afterPath="$PROJECT_DIR$/static/emoji/cop.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/copyright.png" afterPath="$PROJECT_DIR$/static/emoji/copyright.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/corn.png" afterPath="$PROJECT_DIR$/static/emoji/corn.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/couple.png" afterPath="$PROJECT_DIR$/static/emoji/couple.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/couple_with_heart.png" afterPath="$PROJECT_DIR$/static/emoji/couple_with_heart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/couplekiss.png" afterPath="$PROJECT_DIR$/static/emoji/couplekiss.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cow.png" afterPath="$PROJECT_DIR$/static/emoji/cow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cow2.png" afterPath="$PROJECT_DIR$/static/emoji/cow2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/credit_card.png" afterPath="$PROJECT_DIR$/static/emoji/credit_card.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/crescent_moon.png" afterPath="$PROJECT_DIR$/static/emoji/crescent_moon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/crocodile.png" afterPath="$PROJECT_DIR$/static/emoji/crocodile.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/crossed_flags.png" afterPath="$PROJECT_DIR$/static/emoji/crossed_flags.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/crown.png" afterPath="$PROJECT_DIR$/static/emoji/crown.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cry.png" afterPath="$PROJECT_DIR$/static/emoji/cry.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/crying_cat_face.png" afterPath="$PROJECT_DIR$/static/emoji/crying_cat_face.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/crystal_ball.png" afterPath="$PROJECT_DIR$/static/emoji/crystal_ball.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cupid.png" afterPath="$PROJECT_DIR$/static/emoji/cupid.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/curly_loop.png" afterPath="$PROJECT_DIR$/static/emoji/curly_loop.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/currency_exchange.png" afterPath="$PROJECT_DIR$/static/emoji/currency_exchange.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/curry.png" afterPath="$PROJECT_DIR$/static/emoji/curry.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/custard.png" afterPath="$PROJECT_DIR$/static/emoji/custard.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/customs.png" afterPath="$PROJECT_DIR$/static/emoji/customs.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/cyclone.png" afterPath="$PROJECT_DIR$/static/emoji/cyclone.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/dancer.png" afterPath="$PROJECT_DIR$/static/emoji/dancer.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/dancers.png" afterPath="$PROJECT_DIR$/static/emoji/dancers.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/dango.png" afterPath="$PROJECT_DIR$/static/emoji/dango.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/dart.png" afterPath="$PROJECT_DIR$/static/emoji/dart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/dash.png" afterPath="$PROJECT_DIR$/static/emoji/dash.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/date.png" afterPath="$PROJECT_DIR$/static/emoji/date.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/de.png" afterPath="$PROJECT_DIR$/static/emoji/de.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/deciduous_tree.png" afterPath="$PROJECT_DIR$/static/emoji/deciduous_tree.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/department_store.png" afterPath="$PROJECT_DIR$/static/emoji/department_store.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/diamond_shape_with_a_dot_inside.png" afterPath="$PROJECT_DIR$/static/emoji/diamond_shape_with_a_dot_inside.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/diamonds.png" afterPath="$PROJECT_DIR$/static/emoji/diamonds.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/disappointed.png" afterPath="$PROJECT_DIR$/static/emoji/disappointed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/disappointed_relieved.png" afterPath="$PROJECT_DIR$/static/emoji/disappointed_relieved.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/dizzy.png" afterPath="$PROJECT_DIR$/static/emoji/dizzy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/dizzy_face.png" afterPath="$PROJECT_DIR$/static/emoji/dizzy_face.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/do_not_litter.png" afterPath="$PROJECT_DIR$/static/emoji/do_not_litter.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/dog.png" afterPath="$PROJECT_DIR$/static/emoji/dog.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/dog2.png" afterPath="$PROJECT_DIR$/static/emoji/dog2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/dollar.png" afterPath="$PROJECT_DIR$/static/emoji/dollar.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/dolls.png" afterPath="$PROJECT_DIR$/static/emoji/dolls.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/dolphin.png" afterPath="$PROJECT_DIR$/static/emoji/dolphin.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/donut.png" afterPath="$PROJECT_DIR$/static/emoji/donut.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/door.png" afterPath="$PROJECT_DIR$/static/emoji/door.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/doughnut.png" afterPath="$PROJECT_DIR$/static/emoji/doughnut.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/dragon.png" afterPath="$PROJECT_DIR$/static/emoji/dragon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/dragon_face.png" afterPath="$PROJECT_DIR$/static/emoji/dragon_face.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/dress.png" afterPath="$PROJECT_DIR$/static/emoji/dress.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/dromedary_camel.png" afterPath="$PROJECT_DIR$/static/emoji/dromedary_camel.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/droplet.png" afterPath="$PROJECT_DIR$/static/emoji/droplet.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/dvd.png" afterPath="$PROJECT_DIR$/static/emoji/dvd.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/e-mail.png" afterPath="$PROJECT_DIR$/static/emoji/e-mail.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ear.png" afterPath="$PROJECT_DIR$/static/emoji/ear.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ear_of_rice.png" afterPath="$PROJECT_DIR$/static/emoji/ear_of_rice.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/earth_africa.png" afterPath="$PROJECT_DIR$/static/emoji/earth_africa.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/earth_americas.png" afterPath="$PROJECT_DIR$/static/emoji/earth_americas.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/earth_asia.png" afterPath="$PROJECT_DIR$/static/emoji/earth_asia.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/egg.png" afterPath="$PROJECT_DIR$/static/emoji/egg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/eggplant.png" afterPath="$PROJECT_DIR$/static/emoji/eggplant.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/eight.png" afterPath="$PROJECT_DIR$/static/emoji/eight.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/eight_pointed_black_star.png" afterPath="$PROJECT_DIR$/static/emoji/eight_pointed_black_star.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/eight_spoked_asterisk.png" afterPath="$PROJECT_DIR$/static/emoji/eight_spoked_asterisk.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/electric_plug.png" afterPath="$PROJECT_DIR$/static/emoji/electric_plug.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/elephant.png" afterPath="$PROJECT_DIR$/static/emoji/elephant.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/email.png" afterPath="$PROJECT_DIR$/static/emoji/email.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/emoji-sprite.png" afterPath="$PROJECT_DIR$/static/emoji/emoji-sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/end.png" afterPath="$PROJECT_DIR$/static/emoji/end.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/envelope.png" afterPath="$PROJECT_DIR$/static/emoji/envelope.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/es.png" afterPath="$PROJECT_DIR$/static/emoji/es.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/euro.png" afterPath="$PROJECT_DIR$/static/emoji/euro.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/european_castle.png" afterPath="$PROJECT_DIR$/static/emoji/european_castle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/european_post_office.png" afterPath="$PROJECT_DIR$/static/emoji/european_post_office.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/evergreen_tree.png" afterPath="$PROJECT_DIR$/static/emoji/evergreen_tree.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/exclamation.png" afterPath="$PROJECT_DIR$/static/emoji/exclamation.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/expressionless.png" afterPath="$PROJECT_DIR$/static/emoji/expressionless.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/eyeglasses.png" afterPath="$PROJECT_DIR$/static/emoji/eyeglasses.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/eyes.png" afterPath="$PROJECT_DIR$/static/emoji/eyes.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/facepunch.png" afterPath="$PROJECT_DIR$/static/emoji/facepunch.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/factory.png" afterPath="$PROJECT_DIR$/static/emoji/factory.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fallen_leaf.png" afterPath="$PROJECT_DIR$/static/emoji/fallen_leaf.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/family.png" afterPath="$PROJECT_DIR$/static/emoji/family.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fast_forward.png" afterPath="$PROJECT_DIR$/static/emoji/fast_forward.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fax.png" afterPath="$PROJECT_DIR$/static/emoji/fax.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fearful.png" afterPath="$PROJECT_DIR$/static/emoji/fearful.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/feelsgood.png" afterPath="$PROJECT_DIR$/static/emoji/feelsgood.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/feet.png" afterPath="$PROJECT_DIR$/static/emoji/feet.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ferris_wheel.png" afterPath="$PROJECT_DIR$/static/emoji/ferris_wheel.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/file_folder.png" afterPath="$PROJECT_DIR$/static/emoji/file_folder.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/finnadie.png" afterPath="$PROJECT_DIR$/static/emoji/finnadie.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fire.png" afterPath="$PROJECT_DIR$/static/emoji/fire.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fire_engine.png" afterPath="$PROJECT_DIR$/static/emoji/fire_engine.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fireworks.png" afterPath="$PROJECT_DIR$/static/emoji/fireworks.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/first_quarter_moon.png" afterPath="$PROJECT_DIR$/static/emoji/first_quarter_moon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/first_quarter_moon_with_face.png" afterPath="$PROJECT_DIR$/static/emoji/first_quarter_moon_with_face.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fish.png" afterPath="$PROJECT_DIR$/static/emoji/fish.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fish_cake.png" afterPath="$PROJECT_DIR$/static/emoji/fish_cake.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fishing_pole_and_fish.png" afterPath="$PROJECT_DIR$/static/emoji/fishing_pole_and_fish.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fist.png" afterPath="$PROJECT_DIR$/static/emoji/fist.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/five.png" afterPath="$PROJECT_DIR$/static/emoji/five.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/flags.png" afterPath="$PROJECT_DIR$/static/emoji/flags.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/flashlight.png" afterPath="$PROJECT_DIR$/static/emoji/flashlight.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/floppy_disk.png" afterPath="$PROJECT_DIR$/static/emoji/floppy_disk.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/flower_playing_cards.png" afterPath="$PROJECT_DIR$/static/emoji/flower_playing_cards.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/flushed.png" afterPath="$PROJECT_DIR$/static/emoji/flushed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/foggy.png" afterPath="$PROJECT_DIR$/static/emoji/foggy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/football.png" afterPath="$PROJECT_DIR$/static/emoji/football.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fork_and_knife.png" afterPath="$PROJECT_DIR$/static/emoji/fork_and_knife.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fountain.png" afterPath="$PROJECT_DIR$/static/emoji/fountain.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/four.png" afterPath="$PROJECT_DIR$/static/emoji/four.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/four_leaf_clover.png" afterPath="$PROJECT_DIR$/static/emoji/four_leaf_clover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fr.png" afterPath="$PROJECT_DIR$/static/emoji/fr.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/free.png" afterPath="$PROJECT_DIR$/static/emoji/free.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fried_shrimp.png" afterPath="$PROJECT_DIR$/static/emoji/fried_shrimp.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fries.png" afterPath="$PROJECT_DIR$/static/emoji/fries.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/frog.png" afterPath="$PROJECT_DIR$/static/emoji/frog.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/frowning.png" afterPath="$PROJECT_DIR$/static/emoji/frowning.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fu.png" afterPath="$PROJECT_DIR$/static/emoji/fu.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/fuelpump.png" afterPath="$PROJECT_DIR$/static/emoji/fuelpump.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/full_moon.png" afterPath="$PROJECT_DIR$/static/emoji/full_moon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/full_moon_with_face.png" afterPath="$PROJECT_DIR$/static/emoji/full_moon_with_face.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/game_die.png" afterPath="$PROJECT_DIR$/static/emoji/game_die.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/gb.png" afterPath="$PROJECT_DIR$/static/emoji/gb.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/gem.png" afterPath="$PROJECT_DIR$/static/emoji/gem.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/gemini.png" afterPath="$PROJECT_DIR$/static/emoji/gemini.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ghost.png" afterPath="$PROJECT_DIR$/static/emoji/ghost.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/gift.png" afterPath="$PROJECT_DIR$/static/emoji/gift.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/gift_heart.png" afterPath="$PROJECT_DIR$/static/emoji/gift_heart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/girl.png" afterPath="$PROJECT_DIR$/static/emoji/girl.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/globe_with_meridians.png" afterPath="$PROJECT_DIR$/static/emoji/globe_with_meridians.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/goat.png" afterPath="$PROJECT_DIR$/static/emoji/goat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/goberserk.png" afterPath="$PROJECT_DIR$/static/emoji/goberserk.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/godmode.png" afterPath="$PROJECT_DIR$/static/emoji/godmode.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/golf.png" afterPath="$PROJECT_DIR$/static/emoji/golf.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/grapes.png" afterPath="$PROJECT_DIR$/static/emoji/grapes.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/green_apple.png" afterPath="$PROJECT_DIR$/static/emoji/green_apple.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/green_book.png" afterPath="$PROJECT_DIR$/static/emoji/green_book.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/green_heart.png" afterPath="$PROJECT_DIR$/static/emoji/green_heart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/grey_exclamation.png" afterPath="$PROJECT_DIR$/static/emoji/grey_exclamation.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/grey_question.png" afterPath="$PROJECT_DIR$/static/emoji/grey_question.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/grimacing.png" afterPath="$PROJECT_DIR$/static/emoji/grimacing.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/grin.png" afterPath="$PROJECT_DIR$/static/emoji/grin.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/grinning.png" afterPath="$PROJECT_DIR$/static/emoji/grinning.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/guardsman.png" afterPath="$PROJECT_DIR$/static/emoji/guardsman.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/guitar.png" afterPath="$PROJECT_DIR$/static/emoji/guitar.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/gun.png" afterPath="$PROJECT_DIR$/static/emoji/gun.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/haircut.png" afterPath="$PROJECT_DIR$/static/emoji/haircut.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hamburger.png" afterPath="$PROJECT_DIR$/static/emoji/hamburger.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hammer.png" afterPath="$PROJECT_DIR$/static/emoji/hammer.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hamster.png" afterPath="$PROJECT_DIR$/static/emoji/hamster.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hand.png" afterPath="$PROJECT_DIR$/static/emoji/hand.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/handbag.png" afterPath="$PROJECT_DIR$/static/emoji/handbag.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hankey.png" afterPath="$PROJECT_DIR$/static/emoji/hankey.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hash.png" afterPath="$PROJECT_DIR$/static/emoji/hash.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hatched_chick.png" afterPath="$PROJECT_DIR$/static/emoji/hatched_chick.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hatching_chick.png" afterPath="$PROJECT_DIR$/static/emoji/hatching_chick.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/headphones.png" afterPath="$PROJECT_DIR$/static/emoji/headphones.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hear_no_evil.png" afterPath="$PROJECT_DIR$/static/emoji/hear_no_evil.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/heart.png" afterPath="$PROJECT_DIR$/static/emoji/heart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/heart_decoration.png" afterPath="$PROJECT_DIR$/static/emoji/heart_decoration.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/heart_eyes.png" afterPath="$PROJECT_DIR$/static/emoji/heart_eyes.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/heart_eyes_cat.png" afterPath="$PROJECT_DIR$/static/emoji/heart_eyes_cat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/heartbeat.png" afterPath="$PROJECT_DIR$/static/emoji/heartbeat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/heartpulse.png" afterPath="$PROJECT_DIR$/static/emoji/heartpulse.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hearts.png" afterPath="$PROJECT_DIR$/static/emoji/hearts.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/heavy_check_mark.png" afterPath="$PROJECT_DIR$/static/emoji/heavy_check_mark.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/heavy_division_sign.png" afterPath="$PROJECT_DIR$/static/emoji/heavy_division_sign.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/heavy_dollar_sign.png" afterPath="$PROJECT_DIR$/static/emoji/heavy_dollar_sign.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/heavy_exclamation_mark.png" afterPath="$PROJECT_DIR$/static/emoji/heavy_exclamation_mark.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/heavy_minus_sign.png" afterPath="$PROJECT_DIR$/static/emoji/heavy_minus_sign.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/heavy_multiplication_x.png" afterPath="$PROJECT_DIR$/static/emoji/heavy_multiplication_x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/heavy_plus_sign.png" afterPath="$PROJECT_DIR$/static/emoji/heavy_plus_sign.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/helicopter.png" afterPath="$PROJECT_DIR$/static/emoji/helicopter.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/herb.png" afterPath="$PROJECT_DIR$/static/emoji/herb.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hibiscus.png" afterPath="$PROJECT_DIR$/static/emoji/hibiscus.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/high_brightness.png" afterPath="$PROJECT_DIR$/static/emoji/high_brightness.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/high_heel.png" afterPath="$PROJECT_DIR$/static/emoji/high_heel.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hocho.png" afterPath="$PROJECT_DIR$/static/emoji/hocho.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/honey_pot.png" afterPath="$PROJECT_DIR$/static/emoji/honey_pot.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/honeybee.png" afterPath="$PROJECT_DIR$/static/emoji/honeybee.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/horse.png" afterPath="$PROJECT_DIR$/static/emoji/horse.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/horse_racing.png" afterPath="$PROJECT_DIR$/static/emoji/horse_racing.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hospital.png" afterPath="$PROJECT_DIR$/static/emoji/hospital.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hotel.png" afterPath="$PROJECT_DIR$/static/emoji/hotel.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hotsprings.png" afterPath="$PROJECT_DIR$/static/emoji/hotsprings.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hourglass.png" afterPath="$PROJECT_DIR$/static/emoji/hourglass.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hourglass_flowing_sand.png" afterPath="$PROJECT_DIR$/static/emoji/hourglass_flowing_sand.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/house.png" afterPath="$PROJECT_DIR$/static/emoji/house.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/house_with_garden.png" afterPath="$PROJECT_DIR$/static/emoji/house_with_garden.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hurtrealbad.png" afterPath="$PROJECT_DIR$/static/emoji/hurtrealbad.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/hushed.png" afterPath="$PROJECT_DIR$/static/emoji/hushed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ice_cream.png" afterPath="$PROJECT_DIR$/static/emoji/ice_cream.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/icecream.png" afterPath="$PROJECT_DIR$/static/emoji/icecream.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/id.png" afterPath="$PROJECT_DIR$/static/emoji/id.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ideograph_advantage.png" afterPath="$PROJECT_DIR$/static/emoji/ideograph_advantage.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/imp.png" afterPath="$PROJECT_DIR$/static/emoji/imp.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/inbox_tray.png" afterPath="$PROJECT_DIR$/static/emoji/inbox_tray.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/incoming_envelope.png" afterPath="$PROJECT_DIR$/static/emoji/incoming_envelope.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/information_desk_person.png" afterPath="$PROJECT_DIR$/static/emoji/information_desk_person.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/information_source.png" afterPath="$PROJECT_DIR$/static/emoji/information_source.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/innocent.png" afterPath="$PROJECT_DIR$/static/emoji/innocent.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/interrobang.png" afterPath="$PROJECT_DIR$/static/emoji/interrobang.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/iphone.png" afterPath="$PROJECT_DIR$/static/emoji/iphone.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/it.png" afterPath="$PROJECT_DIR$/static/emoji/it.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/izakaya_lantern.png" afterPath="$PROJECT_DIR$/static/emoji/izakaya_lantern.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/jack_o_lantern.png" afterPath="$PROJECT_DIR$/static/emoji/jack_o_lantern.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/japan.png" afterPath="$PROJECT_DIR$/static/emoji/japan.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/japanese_castle.png" afterPath="$PROJECT_DIR$/static/emoji/japanese_castle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/japanese_goblin.png" afterPath="$PROJECT_DIR$/static/emoji/japanese_goblin.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/japanese_ogre.png" afterPath="$PROJECT_DIR$/static/emoji/japanese_ogre.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/jeans.png" afterPath="$PROJECT_DIR$/static/emoji/jeans.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/joy.png" afterPath="$PROJECT_DIR$/static/emoji/joy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/joy_cat.png" afterPath="$PROJECT_DIR$/static/emoji/joy_cat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/jp.png" afterPath="$PROJECT_DIR$/static/emoji/jp.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/key.png" afterPath="$PROJECT_DIR$/static/emoji/key.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/keycap_ten.png" afterPath="$PROJECT_DIR$/static/emoji/keycap_ten.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/kimono.png" afterPath="$PROJECT_DIR$/static/emoji/kimono.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/kiss.png" afterPath="$PROJECT_DIR$/static/emoji/kiss.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/kissing.png" afterPath="$PROJECT_DIR$/static/emoji/kissing.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/kissing_cat.png" afterPath="$PROJECT_DIR$/static/emoji/kissing_cat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/kissing_closed_eyes.png" afterPath="$PROJECT_DIR$/static/emoji/kissing_closed_eyes.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/kissing_face.png" afterPath="$PROJECT_DIR$/static/emoji/kissing_face.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/kissing_heart.png" afterPath="$PROJECT_DIR$/static/emoji/kissing_heart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/kissing_smiling_eyes.png" afterPath="$PROJECT_DIR$/static/emoji/kissing_smiling_eyes.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/koala.png" afterPath="$PROJECT_DIR$/static/emoji/koala.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/koko.png" afterPath="$PROJECT_DIR$/static/emoji/koko.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/kr.png" afterPath="$PROJECT_DIR$/static/emoji/kr.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/large_blue_circle.png" afterPath="$PROJECT_DIR$/static/emoji/large_blue_circle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/large_blue_diamond.png" afterPath="$PROJECT_DIR$/static/emoji/large_blue_diamond.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/large_orange_diamond.png" afterPath="$PROJECT_DIR$/static/emoji/large_orange_diamond.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/last_quarter_moon.png" afterPath="$PROJECT_DIR$/static/emoji/last_quarter_moon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/last_quarter_moon_with_face.png" afterPath="$PROJECT_DIR$/static/emoji/last_quarter_moon_with_face.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/laughing.png" afterPath="$PROJECT_DIR$/static/emoji/laughing.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/leaves.png" afterPath="$PROJECT_DIR$/static/emoji/leaves.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ledger.png" afterPath="$PROJECT_DIR$/static/emoji/ledger.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/left_luggage.png" afterPath="$PROJECT_DIR$/static/emoji/left_luggage.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/left_right_arrow.png" afterPath="$PROJECT_DIR$/static/emoji/left_right_arrow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/leftwards_arrow_with_hook.png" afterPath="$PROJECT_DIR$/static/emoji/leftwards_arrow_with_hook.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/lemon.png" afterPath="$PROJECT_DIR$/static/emoji/lemon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/leo.png" afterPath="$PROJECT_DIR$/static/emoji/leo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/leopard.png" afterPath="$PROJECT_DIR$/static/emoji/leopard.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/libra.png" afterPath="$PROJECT_DIR$/static/emoji/libra.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/light_rail.png" afterPath="$PROJECT_DIR$/static/emoji/light_rail.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/link.png" afterPath="$PROJECT_DIR$/static/emoji/link.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/lips.png" afterPath="$PROJECT_DIR$/static/emoji/lips.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/lipstick.png" afterPath="$PROJECT_DIR$/static/emoji/lipstick.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/lock.png" afterPath="$PROJECT_DIR$/static/emoji/lock.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/lock_with_ink_pen.png" afterPath="$PROJECT_DIR$/static/emoji/lock_with_ink_pen.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/lollipop.png" afterPath="$PROJECT_DIR$/static/emoji/lollipop.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/loop.png" afterPath="$PROJECT_DIR$/static/emoji/loop.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/loudspeaker.png" afterPath="$PROJECT_DIR$/static/emoji/loudspeaker.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/love_hotel.png" afterPath="$PROJECT_DIR$/static/emoji/love_hotel.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/love_letter.png" afterPath="$PROJECT_DIR$/static/emoji/love_letter.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/low_brightness.png" afterPath="$PROJECT_DIR$/static/emoji/low_brightness.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/m.png" afterPath="$PROJECT_DIR$/static/emoji/m.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mag.png" afterPath="$PROJECT_DIR$/static/emoji/mag.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mag_right.png" afterPath="$PROJECT_DIR$/static/emoji/mag_right.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mahjong.png" afterPath="$PROJECT_DIR$/static/emoji/mahjong.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mailbox.png" afterPath="$PROJECT_DIR$/static/emoji/mailbox.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mailbox_closed.png" afterPath="$PROJECT_DIR$/static/emoji/mailbox_closed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mailbox_with_mail.png" afterPath="$PROJECT_DIR$/static/emoji/mailbox_with_mail.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mailbox_with_no_mail.png" afterPath="$PROJECT_DIR$/static/emoji/mailbox_with_no_mail.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/man.png" afterPath="$PROJECT_DIR$/static/emoji/man.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/man_with_gua_pi_mao.png" afterPath="$PROJECT_DIR$/static/emoji/man_with_gua_pi_mao.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/man_with_turban.png" afterPath="$PROJECT_DIR$/static/emoji/man_with_turban.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mans_shoe.png" afterPath="$PROJECT_DIR$/static/emoji/mans_shoe.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/maple_leaf.png" afterPath="$PROJECT_DIR$/static/emoji/maple_leaf.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mask.png" afterPath="$PROJECT_DIR$/static/emoji/mask.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/massage.png" afterPath="$PROJECT_DIR$/static/emoji/massage.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/meat_on_bone.png" afterPath="$PROJECT_DIR$/static/emoji/meat_on_bone.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mega.png" afterPath="$PROJECT_DIR$/static/emoji/mega.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/melon.png" afterPath="$PROJECT_DIR$/static/emoji/melon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/memo.png" afterPath="$PROJECT_DIR$/static/emoji/memo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mens.png" afterPath="$PROJECT_DIR$/static/emoji/mens.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/metal.png" afterPath="$PROJECT_DIR$/static/emoji/metal.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/metro.png" afterPath="$PROJECT_DIR$/static/emoji/metro.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/microphone.png" afterPath="$PROJECT_DIR$/static/emoji/microphone.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/microscope.png" afterPath="$PROJECT_DIR$/static/emoji/microscope.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/milky_way.png" afterPath="$PROJECT_DIR$/static/emoji/milky_way.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/minibus.png" afterPath="$PROJECT_DIR$/static/emoji/minibus.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/minidisc.png" afterPath="$PROJECT_DIR$/static/emoji/minidisc.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mobile_phone_off.png" afterPath="$PROJECT_DIR$/static/emoji/mobile_phone_off.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/money_with_wings.png" afterPath="$PROJECT_DIR$/static/emoji/money_with_wings.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/moneybag.png" afterPath="$PROJECT_DIR$/static/emoji/moneybag.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/monkey.png" afterPath="$PROJECT_DIR$/static/emoji/monkey.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/monkey_face.png" afterPath="$PROJECT_DIR$/static/emoji/monkey_face.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/monorail.png" afterPath="$PROJECT_DIR$/static/emoji/monorail.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mortar_board.png" afterPath="$PROJECT_DIR$/static/emoji/mortar_board.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mount_fuji.png" afterPath="$PROJECT_DIR$/static/emoji/mount_fuji.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mountain_bicyclist.png" afterPath="$PROJECT_DIR$/static/emoji/mountain_bicyclist.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mountain_cableway.png" afterPath="$PROJECT_DIR$/static/emoji/mountain_cableway.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mountain_railway.png" afterPath="$PROJECT_DIR$/static/emoji/mountain_railway.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mouse.png" afterPath="$PROJECT_DIR$/static/emoji/mouse.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mouse2.png" afterPath="$PROJECT_DIR$/static/emoji/mouse2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/movie_camera.png" afterPath="$PROJECT_DIR$/static/emoji/movie_camera.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/moyai.png" afterPath="$PROJECT_DIR$/static/emoji/moyai.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/muscle.png" afterPath="$PROJECT_DIR$/static/emoji/muscle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mushroom.png" afterPath="$PROJECT_DIR$/static/emoji/mushroom.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/musical_keyboard.png" afterPath="$PROJECT_DIR$/static/emoji/musical_keyboard.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/musical_note.png" afterPath="$PROJECT_DIR$/static/emoji/musical_note.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/musical_score.png" afterPath="$PROJECT_DIR$/static/emoji/musical_score.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/mute.png" afterPath="$PROJECT_DIR$/static/emoji/mute.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/nail_care.png" afterPath="$PROJECT_DIR$/static/emoji/nail_care.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/name_badge.png" afterPath="$PROJECT_DIR$/static/emoji/name_badge.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/neckbeard.png" afterPath="$PROJECT_DIR$/static/emoji/neckbeard.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/necktie.png" afterPath="$PROJECT_DIR$/static/emoji/necktie.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/negative_squared_cross_mark.png" afterPath="$PROJECT_DIR$/static/emoji/negative_squared_cross_mark.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/neutral_face.png" afterPath="$PROJECT_DIR$/static/emoji/neutral_face.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/new.png" afterPath="$PROJECT_DIR$/static/emoji/new.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/new_moon.png" afterPath="$PROJECT_DIR$/static/emoji/new_moon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/new_moon_with_face.png" afterPath="$PROJECT_DIR$/static/emoji/new_moon_with_face.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/newspaper.png" afterPath="$PROJECT_DIR$/static/emoji/newspaper.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ng.png" afterPath="$PROJECT_DIR$/static/emoji/ng.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/nine.png" afterPath="$PROJECT_DIR$/static/emoji/nine.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/no_bell.png" afterPath="$PROJECT_DIR$/static/emoji/no_bell.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/no_bicycles.png" afterPath="$PROJECT_DIR$/static/emoji/no_bicycles.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/no_entry.png" afterPath="$PROJECT_DIR$/static/emoji/no_entry.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/no_entry_sign.png" afterPath="$PROJECT_DIR$/static/emoji/no_entry_sign.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/no_good.png" afterPath="$PROJECT_DIR$/static/emoji/no_good.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/no_mobile_phones.png" afterPath="$PROJECT_DIR$/static/emoji/no_mobile_phones.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/no_mouth.png" afterPath="$PROJECT_DIR$/static/emoji/no_mouth.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/no_pedestrians.png" afterPath="$PROJECT_DIR$/static/emoji/no_pedestrians.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/no_smoking.png" afterPath="$PROJECT_DIR$/static/emoji/no_smoking.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/non-potable_water.png" afterPath="$PROJECT_DIR$/static/emoji/non-potable_water.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/nose.png" afterPath="$PROJECT_DIR$/static/emoji/nose.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/notebook.png" afterPath="$PROJECT_DIR$/static/emoji/notebook.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/notebook_with_decorative_cover.png" afterPath="$PROJECT_DIR$/static/emoji/notebook_with_decorative_cover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/notes.png" afterPath="$PROJECT_DIR$/static/emoji/notes.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/nut_and_bolt.png" afterPath="$PROJECT_DIR$/static/emoji/nut_and_bolt.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/o.png" afterPath="$PROJECT_DIR$/static/emoji/o.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/o2.png" afterPath="$PROJECT_DIR$/static/emoji/o2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ocean.png" afterPath="$PROJECT_DIR$/static/emoji/ocean.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/octocat.png" afterPath="$PROJECT_DIR$/static/emoji/octocat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/octopus.png" afterPath="$PROJECT_DIR$/static/emoji/octopus.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/oden.png" afterPath="$PROJECT_DIR$/static/emoji/oden.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/office.png" afterPath="$PROJECT_DIR$/static/emoji/office.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ok.png" afterPath="$PROJECT_DIR$/static/emoji/ok.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ok_hand.png" afterPath="$PROJECT_DIR$/static/emoji/ok_hand.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ok_woman.png" afterPath="$PROJECT_DIR$/static/emoji/ok_woman.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/older_man.png" afterPath="$PROJECT_DIR$/static/emoji/older_man.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/older_woman.png" afterPath="$PROJECT_DIR$/static/emoji/older_woman.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/on.png" afterPath="$PROJECT_DIR$/static/emoji/on.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/oncoming_automobile.png" afterPath="$PROJECT_DIR$/static/emoji/oncoming_automobile.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/oncoming_bus.png" afterPath="$PROJECT_DIR$/static/emoji/oncoming_bus.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/oncoming_police_car.png" afterPath="$PROJECT_DIR$/static/emoji/oncoming_police_car.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/oncoming_taxi.png" afterPath="$PROJECT_DIR$/static/emoji/oncoming_taxi.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/one.png" afterPath="$PROJECT_DIR$/static/emoji/one.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/open_file_folder.png" afterPath="$PROJECT_DIR$/static/emoji/open_file_folder.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/open_hands.png" afterPath="$PROJECT_DIR$/static/emoji/open_hands.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/open_mouth.png" afterPath="$PROJECT_DIR$/static/emoji/open_mouth.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ophiuchus.png" afterPath="$PROJECT_DIR$/static/emoji/ophiuchus.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/orange_book.png" afterPath="$PROJECT_DIR$/static/emoji/orange_book.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/outbox_tray.png" afterPath="$PROJECT_DIR$/static/emoji/outbox_tray.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ox.png" afterPath="$PROJECT_DIR$/static/emoji/ox.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/package.png" afterPath="$PROJECT_DIR$/static/emoji/package.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/page_facing_up.png" afterPath="$PROJECT_DIR$/static/emoji/page_facing_up.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/page_with_curl.png" afterPath="$PROJECT_DIR$/static/emoji/page_with_curl.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/pager.png" afterPath="$PROJECT_DIR$/static/emoji/pager.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/palm_tree.png" afterPath="$PROJECT_DIR$/static/emoji/palm_tree.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/panda_face.png" afterPath="$PROJECT_DIR$/static/emoji/panda_face.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/paperclip.png" afterPath="$PROJECT_DIR$/static/emoji/paperclip.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/parking.png" afterPath="$PROJECT_DIR$/static/emoji/parking.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/part_alternation_mark.png" afterPath="$PROJECT_DIR$/static/emoji/part_alternation_mark.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/partly_sunny.png" afterPath="$PROJECT_DIR$/static/emoji/partly_sunny.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/passport_control.png" afterPath="$PROJECT_DIR$/static/emoji/passport_control.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/paw_prints.png" afterPath="$PROJECT_DIR$/static/emoji/paw_prints.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/peach.png" afterPath="$PROJECT_DIR$/static/emoji/peach.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/pear.png" afterPath="$PROJECT_DIR$/static/emoji/pear.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/pencil.png" afterPath="$PROJECT_DIR$/static/emoji/pencil.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/pencil2.png" afterPath="$PROJECT_DIR$/static/emoji/pencil2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/penguin.png" afterPath="$PROJECT_DIR$/static/emoji/penguin.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/pensive.png" afterPath="$PROJECT_DIR$/static/emoji/pensive.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/performing_arts.png" afterPath="$PROJECT_DIR$/static/emoji/performing_arts.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/persevere.png" afterPath="$PROJECT_DIR$/static/emoji/persevere.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/person_frowning.png" afterPath="$PROJECT_DIR$/static/emoji/person_frowning.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/person_with_blond_hair.png" afterPath="$PROJECT_DIR$/static/emoji/person_with_blond_hair.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/person_with_pouting_face.png" afterPath="$PROJECT_DIR$/static/emoji/person_with_pouting_face.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/phone.png" afterPath="$PROJECT_DIR$/static/emoji/phone.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/pig.png" afterPath="$PROJECT_DIR$/static/emoji/pig.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/pig2.png" afterPath="$PROJECT_DIR$/static/emoji/pig2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/pig_nose.png" afterPath="$PROJECT_DIR$/static/emoji/pig_nose.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/pill.png" afterPath="$PROJECT_DIR$/static/emoji/pill.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/pineapple.png" afterPath="$PROJECT_DIR$/static/emoji/pineapple.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/pisces.png" afterPath="$PROJECT_DIR$/static/emoji/pisces.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/pizza.png" afterPath="$PROJECT_DIR$/static/emoji/pizza.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/plus1.png" afterPath="$PROJECT_DIR$/static/emoji/plus1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/point_down.png" afterPath="$PROJECT_DIR$/static/emoji/point_down.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/point_left.png" afterPath="$PROJECT_DIR$/static/emoji/point_left.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/point_right.png" afterPath="$PROJECT_DIR$/static/emoji/point_right.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/point_up.png" afterPath="$PROJECT_DIR$/static/emoji/point_up.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/point_up_2.png" afterPath="$PROJECT_DIR$/static/emoji/point_up_2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/police_car.png" afterPath="$PROJECT_DIR$/static/emoji/police_car.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/poodle.png" afterPath="$PROJECT_DIR$/static/emoji/poodle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/poop.png" afterPath="$PROJECT_DIR$/static/emoji/poop.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/post_office.png" afterPath="$PROJECT_DIR$/static/emoji/post_office.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/postal_horn.png" afterPath="$PROJECT_DIR$/static/emoji/postal_horn.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/postbox.png" afterPath="$PROJECT_DIR$/static/emoji/postbox.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/potable_water.png" afterPath="$PROJECT_DIR$/static/emoji/potable_water.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/pouch.png" afterPath="$PROJECT_DIR$/static/emoji/pouch.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/poultry_leg.png" afterPath="$PROJECT_DIR$/static/emoji/poultry_leg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/pound.png" afterPath="$PROJECT_DIR$/static/emoji/pound.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/pouting_cat.png" afterPath="$PROJECT_DIR$/static/emoji/pouting_cat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/pray.png" afterPath="$PROJECT_DIR$/static/emoji/pray.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/princess.png" afterPath="$PROJECT_DIR$/static/emoji/princess.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/punch.png" afterPath="$PROJECT_DIR$/static/emoji/punch.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/purple_heart.png" afterPath="$PROJECT_DIR$/static/emoji/purple_heart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/purse.png" afterPath="$PROJECT_DIR$/static/emoji/purse.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/pushpin.png" afterPath="$PROJECT_DIR$/static/emoji/pushpin.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/put_litter_in_its_place.png" afterPath="$PROJECT_DIR$/static/emoji/put_litter_in_its_place.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/question.png" afterPath="$PROJECT_DIR$/static/emoji/question.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rabbit.png" afterPath="$PROJECT_DIR$/static/emoji/rabbit.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rabbit2.png" afterPath="$PROJECT_DIR$/static/emoji/rabbit2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/racehorse.png" afterPath="$PROJECT_DIR$/static/emoji/racehorse.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/radio.png" afterPath="$PROJECT_DIR$/static/emoji/radio.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/radio_button.png" afterPath="$PROJECT_DIR$/static/emoji/radio_button.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rage.png" afterPath="$PROJECT_DIR$/static/emoji/rage.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rage1.png" afterPath="$PROJECT_DIR$/static/emoji/rage1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rage2.png" afterPath="$PROJECT_DIR$/static/emoji/rage2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rage3.png" afterPath="$PROJECT_DIR$/static/emoji/rage3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rage4.png" afterPath="$PROJECT_DIR$/static/emoji/rage4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/railway_car.png" afterPath="$PROJECT_DIR$/static/emoji/railway_car.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rainbow.png" afterPath="$PROJECT_DIR$/static/emoji/rainbow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/raised_hand.png" afterPath="$PROJECT_DIR$/static/emoji/raised_hand.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/raised_hands.png" afterPath="$PROJECT_DIR$/static/emoji/raised_hands.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/raising_hand.png" afterPath="$PROJECT_DIR$/static/emoji/raising_hand.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ram.png" afterPath="$PROJECT_DIR$/static/emoji/ram.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ramen.png" afterPath="$PROJECT_DIR$/static/emoji/ramen.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rat.png" afterPath="$PROJECT_DIR$/static/emoji/rat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/recycle.png" afterPath="$PROJECT_DIR$/static/emoji/recycle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/red_car.png" afterPath="$PROJECT_DIR$/static/emoji/red_car.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/red_circle.png" afterPath="$PROJECT_DIR$/static/emoji/red_circle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/refuse.png" afterPath="$PROJECT_DIR$/static/emoji/refuse.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/registered.png" afterPath="$PROJECT_DIR$/static/emoji/registered.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/relaxed.png" afterPath="$PROJECT_DIR$/static/emoji/relaxed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/relieved.png" afterPath="$PROJECT_DIR$/static/emoji/relieved.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/repeat.png" afterPath="$PROJECT_DIR$/static/emoji/repeat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/repeat_one.png" afterPath="$PROJECT_DIR$/static/emoji/repeat_one.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/restroom.png" afterPath="$PROJECT_DIR$/static/emoji/restroom.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/revolving_hearts.png" afterPath="$PROJECT_DIR$/static/emoji/revolving_hearts.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rewind.png" afterPath="$PROJECT_DIR$/static/emoji/rewind.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ribbon.png" afterPath="$PROJECT_DIR$/static/emoji/ribbon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rice.png" afterPath="$PROJECT_DIR$/static/emoji/rice.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rice_ball.png" afterPath="$PROJECT_DIR$/static/emoji/rice_ball.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rice_cracker.png" afterPath="$PROJECT_DIR$/static/emoji/rice_cracker.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rice_scene.png" afterPath="$PROJECT_DIR$/static/emoji/rice_scene.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ring.png" afterPath="$PROJECT_DIR$/static/emoji/ring.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rocket.png" afterPath="$PROJECT_DIR$/static/emoji/rocket.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/roller_coaster.png" afterPath="$PROJECT_DIR$/static/emoji/roller_coaster.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rooster.png" afterPath="$PROJECT_DIR$/static/emoji/rooster.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rose.png" afterPath="$PROJECT_DIR$/static/emoji/rose.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rotating_light.png" afterPath="$PROJECT_DIR$/static/emoji/rotating_light.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/round_pushpin.png" afterPath="$PROJECT_DIR$/static/emoji/round_pushpin.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rowboat.png" afterPath="$PROJECT_DIR$/static/emoji/rowboat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ru.png" afterPath="$PROJECT_DIR$/static/emoji/ru.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/rugby_football.png" afterPath="$PROJECT_DIR$/static/emoji/rugby_football.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/runner.png" afterPath="$PROJECT_DIR$/static/emoji/runner.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/running.png" afterPath="$PROJECT_DIR$/static/emoji/running.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/running_shirt_with_sash.png" afterPath="$PROJECT_DIR$/static/emoji/running_shirt_with_sash.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sa.png" afterPath="$PROJECT_DIR$/static/emoji/sa.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sagittarius.png" afterPath="$PROJECT_DIR$/static/emoji/sagittarius.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sailboat.png" afterPath="$PROJECT_DIR$/static/emoji/sailboat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sake.png" afterPath="$PROJECT_DIR$/static/emoji/sake.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sandal.png" afterPath="$PROJECT_DIR$/static/emoji/sandal.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/santa.png" afterPath="$PROJECT_DIR$/static/emoji/santa.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/satellite.png" afterPath="$PROJECT_DIR$/static/emoji/satellite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/satisfied.png" afterPath="$PROJECT_DIR$/static/emoji/satisfied.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/saxophone.png" afterPath="$PROJECT_DIR$/static/emoji/saxophone.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/school.png" afterPath="$PROJECT_DIR$/static/emoji/school.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/school_satchel.png" afterPath="$PROJECT_DIR$/static/emoji/school_satchel.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/scissors.png" afterPath="$PROJECT_DIR$/static/emoji/scissors.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/scorpius.png" afterPath="$PROJECT_DIR$/static/emoji/scorpius.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/scream.png" afterPath="$PROJECT_DIR$/static/emoji/scream.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/scream_cat.png" afterPath="$PROJECT_DIR$/static/emoji/scream_cat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/scroll.png" afterPath="$PROJECT_DIR$/static/emoji/scroll.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/seat.png" afterPath="$PROJECT_DIR$/static/emoji/seat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/secret.png" afterPath="$PROJECT_DIR$/static/emoji/secret.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/see_no_evil.png" afterPath="$PROJECT_DIR$/static/emoji/see_no_evil.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/seedling.png" afterPath="$PROJECT_DIR$/static/emoji/seedling.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/seven.png" afterPath="$PROJECT_DIR$/static/emoji/seven.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/shaved_ice.png" afterPath="$PROJECT_DIR$/static/emoji/shaved_ice.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sheep.png" afterPath="$PROJECT_DIR$/static/emoji/sheep.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/shell.png" afterPath="$PROJECT_DIR$/static/emoji/shell.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ship.png" afterPath="$PROJECT_DIR$/static/emoji/ship.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/shipit.png" afterPath="$PROJECT_DIR$/static/emoji/shipit.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/shirt.png" afterPath="$PROJECT_DIR$/static/emoji/shirt.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/shit.png" afterPath="$PROJECT_DIR$/static/emoji/shit.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/shoe.png" afterPath="$PROJECT_DIR$/static/emoji/shoe.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/shower.png" afterPath="$PROJECT_DIR$/static/emoji/shower.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/signal_strength.png" afterPath="$PROJECT_DIR$/static/emoji/signal_strength.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/six.png" afterPath="$PROJECT_DIR$/static/emoji/six.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/six_pointed_star.png" afterPath="$PROJECT_DIR$/static/emoji/six_pointed_star.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ski.png" afterPath="$PROJECT_DIR$/static/emoji/ski.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/skull.png" afterPath="$PROJECT_DIR$/static/emoji/skull.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sleeping.png" afterPath="$PROJECT_DIR$/static/emoji/sleeping.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sleepy.png" afterPath="$PROJECT_DIR$/static/emoji/sleepy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/slot_machine.png" afterPath="$PROJECT_DIR$/static/emoji/slot_machine.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/small_blue_diamond.png" afterPath="$PROJECT_DIR$/static/emoji/small_blue_diamond.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/small_orange_diamond.png" afterPath="$PROJECT_DIR$/static/emoji/small_orange_diamond.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/small_red_triangle.png" afterPath="$PROJECT_DIR$/static/emoji/small_red_triangle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/small_red_triangle_down.png" afterPath="$PROJECT_DIR$/static/emoji/small_red_triangle_down.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/smile.png" afterPath="$PROJECT_DIR$/static/emoji/smile.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/smile_cat.png" afterPath="$PROJECT_DIR$/static/emoji/smile_cat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/smiley.png" afterPath="$PROJECT_DIR$/static/emoji/smiley.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/smiley_cat.png" afterPath="$PROJECT_DIR$/static/emoji/smiley_cat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/smiling_imp.png" afterPath="$PROJECT_DIR$/static/emoji/smiling_imp.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/smirk.png" afterPath="$PROJECT_DIR$/static/emoji/smirk.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/smirk_cat.png" afterPath="$PROJECT_DIR$/static/emoji/smirk_cat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/smoking.png" afterPath="$PROJECT_DIR$/static/emoji/smoking.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/snail.png" afterPath="$PROJECT_DIR$/static/emoji/snail.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/snake.png" afterPath="$PROJECT_DIR$/static/emoji/snake.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/snowboarder.png" afterPath="$PROJECT_DIR$/static/emoji/snowboarder.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/snowflake.png" afterPath="$PROJECT_DIR$/static/emoji/snowflake.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/snowman.png" afterPath="$PROJECT_DIR$/static/emoji/snowman.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sob.png" afterPath="$PROJECT_DIR$/static/emoji/sob.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/soccer.png" afterPath="$PROJECT_DIR$/static/emoji/soccer.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/soon.png" afterPath="$PROJECT_DIR$/static/emoji/soon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sos.png" afterPath="$PROJECT_DIR$/static/emoji/sos.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sound.png" afterPath="$PROJECT_DIR$/static/emoji/sound.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/space_invader.png" afterPath="$PROJECT_DIR$/static/emoji/space_invader.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/spades.png" afterPath="$PROJECT_DIR$/static/emoji/spades.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/spaghetti.png" afterPath="$PROJECT_DIR$/static/emoji/spaghetti.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sparkle.png" afterPath="$PROJECT_DIR$/static/emoji/sparkle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sparkler.png" afterPath="$PROJECT_DIR$/static/emoji/sparkler.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sparkles.png" afterPath="$PROJECT_DIR$/static/emoji/sparkles.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sparkling_heart.png" afterPath="$PROJECT_DIR$/static/emoji/sparkling_heart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/speak_no_evil.png" afterPath="$PROJECT_DIR$/static/emoji/speak_no_evil.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/speaker.png" afterPath="$PROJECT_DIR$/static/emoji/speaker.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/speech_balloon.png" afterPath="$PROJECT_DIR$/static/emoji/speech_balloon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/speedboat.png" afterPath="$PROJECT_DIR$/static/emoji/speedboat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/squirrel.png" afterPath="$PROJECT_DIR$/static/emoji/squirrel.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/star.png" afterPath="$PROJECT_DIR$/static/emoji/star.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/star2.png" afterPath="$PROJECT_DIR$/static/emoji/star2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/stars.png" afterPath="$PROJECT_DIR$/static/emoji/stars.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/station.png" afterPath="$PROJECT_DIR$/static/emoji/station.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/statue_of_liberty.png" afterPath="$PROJECT_DIR$/static/emoji/statue_of_liberty.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/steam_locomotive.png" afterPath="$PROJECT_DIR$/static/emoji/steam_locomotive.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/stew.png" afterPath="$PROJECT_DIR$/static/emoji/stew.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/straight_ruler.png" afterPath="$PROJECT_DIR$/static/emoji/straight_ruler.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/strawberry.png" afterPath="$PROJECT_DIR$/static/emoji/strawberry.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/stuck_out_tongue.png" afterPath="$PROJECT_DIR$/static/emoji/stuck_out_tongue.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/stuck_out_tongue_closed_eyes.png" afterPath="$PROJECT_DIR$/static/emoji/stuck_out_tongue_closed_eyes.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/stuck_out_tongue_winking_eye.png" afterPath="$PROJECT_DIR$/static/emoji/stuck_out_tongue_winking_eye.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sun_with_face.png" afterPath="$PROJECT_DIR$/static/emoji/sun_with_face.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sunflower.png" afterPath="$PROJECT_DIR$/static/emoji/sunflower.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sunglasses.png" afterPath="$PROJECT_DIR$/static/emoji/sunglasses.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sunny.png" afterPath="$PROJECT_DIR$/static/emoji/sunny.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sunrise.png" afterPath="$PROJECT_DIR$/static/emoji/sunrise.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sunrise_over_mountains.png" afterPath="$PROJECT_DIR$/static/emoji/sunrise_over_mountains.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/surfer.png" afterPath="$PROJECT_DIR$/static/emoji/surfer.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sushi.png" afterPath="$PROJECT_DIR$/static/emoji/sushi.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/suspect.png" afterPath="$PROJECT_DIR$/static/emoji/suspect.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/suspension_railway.png" afterPath="$PROJECT_DIR$/static/emoji/suspension_railway.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sweat.png" afterPath="$PROJECT_DIR$/static/emoji/sweat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sweat_drops.png" afterPath="$PROJECT_DIR$/static/emoji/sweat_drops.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sweat_smile.png" afterPath="$PROJECT_DIR$/static/emoji/sweat_smile.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sweet_potato.png" afterPath="$PROJECT_DIR$/static/emoji/sweet_potato.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/swimmer.png" afterPath="$PROJECT_DIR$/static/emoji/swimmer.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/symbols.png" afterPath="$PROJECT_DIR$/static/emoji/symbols.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/syringe.png" afterPath="$PROJECT_DIR$/static/emoji/syringe.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tada.png" afterPath="$PROJECT_DIR$/static/emoji/tada.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tanabata_tree.png" afterPath="$PROJECT_DIR$/static/emoji/tanabata_tree.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tangerine.png" afterPath="$PROJECT_DIR$/static/emoji/tangerine.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/taurus.png" afterPath="$PROJECT_DIR$/static/emoji/taurus.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/taxi.png" afterPath="$PROJECT_DIR$/static/emoji/taxi.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tea.png" afterPath="$PROJECT_DIR$/static/emoji/tea.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/telephone.png" afterPath="$PROJECT_DIR$/static/emoji/telephone.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/telephone_receiver.png" afterPath="$PROJECT_DIR$/static/emoji/telephone_receiver.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/telescope.png" afterPath="$PROJECT_DIR$/static/emoji/telescope.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tennis.png" afterPath="$PROJECT_DIR$/static/emoji/tennis.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tent.png" afterPath="$PROJECT_DIR$/static/emoji/tent.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/thought_balloon.png" afterPath="$PROJECT_DIR$/static/emoji/thought_balloon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/three.png" afterPath="$PROJECT_DIR$/static/emoji/three.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/thumbsdown.png" afterPath="$PROJECT_DIR$/static/emoji/thumbsdown.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/thumbsup.png" afterPath="$PROJECT_DIR$/static/emoji/thumbsup.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/ticket.png" afterPath="$PROJECT_DIR$/static/emoji/ticket.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tiger.png" afterPath="$PROJECT_DIR$/static/emoji/tiger.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tiger2.png" afterPath="$PROJECT_DIR$/static/emoji/tiger2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tired_face.png" afterPath="$PROJECT_DIR$/static/emoji/tired_face.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tm.png" afterPath="$PROJECT_DIR$/static/emoji/tm.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/toilet.png" afterPath="$PROJECT_DIR$/static/emoji/toilet.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tokyo_tower.png" afterPath="$PROJECT_DIR$/static/emoji/tokyo_tower.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tomato.png" afterPath="$PROJECT_DIR$/static/emoji/tomato.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tongue.png" afterPath="$PROJECT_DIR$/static/emoji/tongue.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/top.png" afterPath="$PROJECT_DIR$/static/emoji/top.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tophat.png" afterPath="$PROJECT_DIR$/static/emoji/tophat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tractor.png" afterPath="$PROJECT_DIR$/static/emoji/tractor.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/traffic_light.png" afterPath="$PROJECT_DIR$/static/emoji/traffic_light.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/train.png" afterPath="$PROJECT_DIR$/static/emoji/train.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/train2.png" afterPath="$PROJECT_DIR$/static/emoji/train2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tram.png" afterPath="$PROJECT_DIR$/static/emoji/tram.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/triangular_flag_on_post.png" afterPath="$PROJECT_DIR$/static/emoji/triangular_flag_on_post.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/triangular_ruler.png" afterPath="$PROJECT_DIR$/static/emoji/triangular_ruler.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/trident.png" afterPath="$PROJECT_DIR$/static/emoji/trident.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/triumph.png" afterPath="$PROJECT_DIR$/static/emoji/triumph.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/trolleybus.png" afterPath="$PROJECT_DIR$/static/emoji/trolleybus.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/trollface.png" afterPath="$PROJECT_DIR$/static/emoji/trollface.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/trophy.png" afterPath="$PROJECT_DIR$/static/emoji/trophy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tropical_drink.png" afterPath="$PROJECT_DIR$/static/emoji/tropical_drink.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tropical_fish.png" afterPath="$PROJECT_DIR$/static/emoji/tropical_fish.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/truck.png" afterPath="$PROJECT_DIR$/static/emoji/truck.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/trumpet.png" afterPath="$PROJECT_DIR$/static/emoji/trumpet.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tshirt.png" afterPath="$PROJECT_DIR$/static/emoji/tshirt.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tulip.png" afterPath="$PROJECT_DIR$/static/emoji/tulip.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/turtle.png" afterPath="$PROJECT_DIR$/static/emoji/turtle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/tv.png" afterPath="$PROJECT_DIR$/static/emoji/tv.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/twisted_rightwards_arrows.png" afterPath="$PROJECT_DIR$/static/emoji/twisted_rightwards_arrows.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/two.png" afterPath="$PROJECT_DIR$/static/emoji/two.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/two_hearts.png" afterPath="$PROJECT_DIR$/static/emoji/two_hearts.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/two_men_holding_hands.png" afterPath="$PROJECT_DIR$/static/emoji/two_men_holding_hands.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/two_women_holding_hands.png" afterPath="$PROJECT_DIR$/static/emoji/two_women_holding_hands.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/u5272.png" afterPath="$PROJECT_DIR$/static/emoji/u5272.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/u5408.png" afterPath="$PROJECT_DIR$/static/emoji/u5408.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/u55b6.png" afterPath="$PROJECT_DIR$/static/emoji/u55b6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/u6307.png" afterPath="$PROJECT_DIR$/static/emoji/u6307.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/u6708.png" afterPath="$PROJECT_DIR$/static/emoji/u6708.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/u6709.png" afterPath="$PROJECT_DIR$/static/emoji/u6709.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/u6e80.png" afterPath="$PROJECT_DIR$/static/emoji/u6e80.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/u7121.png" afterPath="$PROJECT_DIR$/static/emoji/u7121.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/u7533.png" afterPath="$PROJECT_DIR$/static/emoji/u7533.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/u7981.png" afterPath="$PROJECT_DIR$/static/emoji/u7981.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/u7a7a.png" afterPath="$PROJECT_DIR$/static/emoji/u7a7a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/uk.png" afterPath="$PROJECT_DIR$/static/emoji/uk.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/umbrella.png" afterPath="$PROJECT_DIR$/static/emoji/umbrella.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/unamused.png" afterPath="$PROJECT_DIR$/static/emoji/unamused.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/underage.png" afterPath="$PROJECT_DIR$/static/emoji/underage.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/unlock.png" afterPath="$PROJECT_DIR$/static/emoji/unlock.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/up.png" afterPath="$PROJECT_DIR$/static/emoji/up.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/us.png" afterPath="$PROJECT_DIR$/static/emoji/us.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/v.png" afterPath="$PROJECT_DIR$/static/emoji/v.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/vertical_traffic_light.png" afterPath="$PROJECT_DIR$/static/emoji/vertical_traffic_light.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/vhs.png" afterPath="$PROJECT_DIR$/static/emoji/vhs.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/vibration_mode.png" afterPath="$PROJECT_DIR$/static/emoji/vibration_mode.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/video_camera.png" afterPath="$PROJECT_DIR$/static/emoji/video_camera.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/video_game.png" afterPath="$PROJECT_DIR$/static/emoji/video_game.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/violin.png" afterPath="$PROJECT_DIR$/static/emoji/violin.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/virgo.png" afterPath="$PROJECT_DIR$/static/emoji/virgo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/volcano.png" afterPath="$PROJECT_DIR$/static/emoji/volcano.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/vs.png" afterPath="$PROJECT_DIR$/static/emoji/vs.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/walking.png" afterPath="$PROJECT_DIR$/static/emoji/walking.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/waning_crescent_moon.png" afterPath="$PROJECT_DIR$/static/emoji/waning_crescent_moon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/waning_gibbous_moon.png" afterPath="$PROJECT_DIR$/static/emoji/waning_gibbous_moon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/warning.png" afterPath="$PROJECT_DIR$/static/emoji/warning.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/watch.png" afterPath="$PROJECT_DIR$/static/emoji/watch.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/water_buffalo.png" afterPath="$PROJECT_DIR$/static/emoji/water_buffalo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/watermelon.png" afterPath="$PROJECT_DIR$/static/emoji/watermelon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/wave.png" afterPath="$PROJECT_DIR$/static/emoji/wave.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/wavy_dash.png" afterPath="$PROJECT_DIR$/static/emoji/wavy_dash.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/waxing_crescent_moon.png" afterPath="$PROJECT_DIR$/static/emoji/waxing_crescent_moon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/waxing_gibbous_moon.png" afterPath="$PROJECT_DIR$/static/emoji/waxing_gibbous_moon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/wc.png" afterPath="$PROJECT_DIR$/static/emoji/wc.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/weary.png" afterPath="$PROJECT_DIR$/static/emoji/weary.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/wedding.png" afterPath="$PROJECT_DIR$/static/emoji/wedding.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/whale.png" afterPath="$PROJECT_DIR$/static/emoji/whale.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/whale2.png" afterPath="$PROJECT_DIR$/static/emoji/whale2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/wheelchair.png" afterPath="$PROJECT_DIR$/static/emoji/wheelchair.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/white_check_mark.png" afterPath="$PROJECT_DIR$/static/emoji/white_check_mark.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/white_circle.png" afterPath="$PROJECT_DIR$/static/emoji/white_circle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/white_flower.png" afterPath="$PROJECT_DIR$/static/emoji/white_flower.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/white_large_square.png" afterPath="$PROJECT_DIR$/static/emoji/white_large_square.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/white_medium_small_square.png" afterPath="$PROJECT_DIR$/static/emoji/white_medium_small_square.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/white_medium_square.png" afterPath="$PROJECT_DIR$/static/emoji/white_medium_square.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/white_small_square.png" afterPath="$PROJECT_DIR$/static/emoji/white_small_square.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/white_square_button.png" afterPath="$PROJECT_DIR$/static/emoji/white_square_button.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/wind_chime.png" afterPath="$PROJECT_DIR$/static/emoji/wind_chime.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/wine_glass.png" afterPath="$PROJECT_DIR$/static/emoji/wine_glass.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/wink.png" afterPath="$PROJECT_DIR$/static/emoji/wink.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/wolf.png" afterPath="$PROJECT_DIR$/static/emoji/wolf.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/woman.png" afterPath="$PROJECT_DIR$/static/emoji/woman.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/womans_clothes.png" afterPath="$PROJECT_DIR$/static/emoji/womans_clothes.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/womans_hat.png" afterPath="$PROJECT_DIR$/static/emoji/womans_hat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/womens.png" afterPath="$PROJECT_DIR$/static/emoji/womens.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/worried.png" afterPath="$PROJECT_DIR$/static/emoji/worried.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/wrench.png" afterPath="$PROJECT_DIR$/static/emoji/wrench.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/x.png" afterPath="$PROJECT_DIR$/static/emoji/x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/yellow_heart.png" afterPath="$PROJECT_DIR$/static/emoji/yellow_heart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/yen.png" afterPath="$PROJECT_DIR$/static/emoji/yen.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/yum.png" afterPath="$PROJECT_DIR$/static/emoji/yum.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/zap.png" afterPath="$PROJECT_DIR$/static/emoji/zap.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/zero.png" afterPath="$PROJECT_DIR$/static/emoji/zero.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/zzz.png" afterPath="$PROJECT_DIR$/static/emoji/zzz.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/banner3.jpg" afterPath="$PROJECT_DIR$/static/banner3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/banner4.jpg" afterPath="$PROJECT_DIR$/static/banner4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/default-avatar.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/myComment.vue" afterPath="$PROJECT_DIR$/components/myComment.vue" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -914,7 +26,7 @@
       <file leaf-file-name="index.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/index.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-954">
+            <state relative-caret-position="319">
               <caret line="170" column="15" lean-forward="false" selection-start-line="170" selection-start-column="15" selection-end-line="170" selection-end-column="15" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
@@ -927,26 +39,6 @@
                 <element signature="n#footer#0;n#div#0;n#template#0;n#!!top" expanded="false" />
                 <element signature="e#13008#13052#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sign-in.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/sign-in.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2030">
-              <caret line="70" column="7" lean-forward="false" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -979,23 +71,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myComment.vue" pinned="false" current-in-tab="false">
+      <file leaf-file-name="myComment.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/components/myComment.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="154" column="19" lean-forward="false" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
+            <state relative-caret-position="3248">
+              <caret line="399" column="31" lean-forward="false" selection-start-line="399" selection-start-column="31" selection-end-line="399" selection-end-column="31" />
               <folding>
+                <element signature="n#form#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#transition#0;n#form#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="e#5577#7192#0" expanded="false" />
+                <element signature="e#7997#9710#0" expanded="false" />
+                <element signature="e#10560#10798#0" expanded="false" />
+                <element signature="e#10819#10851#0" expanded="false" />
+                <element signature="e#10918#11002#0" expanded="false" />
+                <element signature="e#11034#11208#0" expanded="false" />
+                <element signature="e#11238#11272#0" expanded="false" />
+                <element signature="e#11316#11407#0" expanded="false" />
+                <element signature="e#11445#11553#0" expanded="false" />
+                <element signature="e#11604#11660#0" expanded="false" />
+                <element signature="e#11712#12043#0" expanded="false" />
+                <element signature="e#12104#12139#0" expanded="false" />
+                <element signature="e#12189#12243#0" expanded="false" />
+                <element signature="e#12295#12351#0" expanded="false" />
+                <element signature="e#12409#12447#0" expanded="false" />
+                <element signature="e#12496#12604#0" expanded="false" />
+                <element signature="e#12655#12774#0" expanded="false" />
+                <element signature="e#12831#12869#0" expanded="false" />
+                <element signature="e#12922#13163#0" expanded="false" />
+                <element signature="e#13222#13258#0" expanded="false" />
+                <element signature="e#13332#13635#0" expanded="false" />
+                <element signature="e#13655#13985#0" expanded="false" />
+                <element signature="e#14037#14070#0" expanded="false" />
+                <element signature="e#14111#14190#0" expanded="false" />
+                <element signature="e#14236#14294#0" expanded="false" />
+                <element signature="e#14348#14531#0" expanded="false" />
+                <element signature="e#14586#14679#0" expanded="false" />
+                <element signature="e#14740#14781#0" expanded="false" />
+                <element signature="e#14843#14884#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vueEmoji.vue" pinned="false" current-in-tab="true">
+      <file leaf-file-name="vueEmoji.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/vueEmoji.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="51" column="46" lean-forward="true" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
+            <state relative-caret-position="1073">
+              <caret line="36" column="31" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -1038,10 +163,10 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/pages/index.vue" />
         <option value="$PROJECT_DIR$/pages/p/_id.vue" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/nuxt.config.js" />
-        <option value="$PROJECT_DIR$/components/myComment.vue" />
         <option value="$PROJECT_DIR$/components/vueEmoji.vue" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/components/myComment.vue" />
       </list>
     </option>
   </component>
@@ -1080,8 +205,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1105,20 +230,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jianshu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jianshu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1195,6 +306,10 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1207,10 +322,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1234,14 +345,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\jianshu\static" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\jianshu\static" />
       <recent name="C:\Users\Administrator\Desktop\jianshu\server\data" />
       <recent name="C:\Users\Administrator\Desktop\jianshu\server\util" />
       <recent name="C:\Users\Administrator\Desktop\jianshu\assets\css" />
       <recent name="C:\Users\Administrator\Desktop\jianshu" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\jianshu\static" />
     </key>
   </component>
@@ -1367,12 +478,13 @@
       <workItem from="1517407866607" duration="2792000" />
       <workItem from="1517446731560" duration="8277000" />
       <workItem from="1517464021467" duration="13432000" />
-      <workItem from="1517533431148" duration="7020000" />
+      <workItem from="1517533431148" duration="9759000" />
+      <workItem from="1517551137704" duration="11991000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187988000" />
+    <option name="totallyTimeSpent" value="202718000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1387,12 +499,12 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22470239" sideWeight="0.45737705" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18154761" sideWeight="0.45737705" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3696581" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923076" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22693452" sideWeight="0.5426229" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2703583" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22693452" sideWeight="0.5426229" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5622951" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -1472,13 +584,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/plugins/axios.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
@@ -1739,14 +844,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/animate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1772,33 +869,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/b.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/b.png" />
     <entry file="file://$PROJECT_DIR$/static/favicon.ico">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/myComment.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="154" column="19" lean-forward="false" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
-          <folding>
-            <element signature="n#div#1;n#div#0;n#transition#0;n#form#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/index.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-954">
+        <state relative-caret-position="319">
           <caret line="170" column="15" lean-forward="false" selection-start-line="170" selection-start-column="15" selection-end-line="170" selection-end-column="15" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
@@ -1818,7 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1834,15 +915,73 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../小米商城/mi/src/components/commonality/Footer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/vueEmoji.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="51" column="46" lean-forward="true" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
+        <state relative-caret-position="1073">
+          <caret line="36" column="31" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1538">
+          <caret line="721" column="53" lean-forward="true" selection-start-line="721" selection-start-column="53" selection-end-line="721" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/myComment.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3248">
+          <caret line="399" column="31" lean-forward="false" selection-start-line="399" selection-start-column="31" selection-end-line="399" selection-end-column="31" />
+          <folding>
+            <element signature="n#form#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#transition#0;n#form#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#5577#7192#0" expanded="false" />
+            <element signature="e#7997#9710#0" expanded="false" />
+            <element signature="e#10560#10798#0" expanded="false" />
+            <element signature="e#10819#10851#0" expanded="false" />
+            <element signature="e#10918#11002#0" expanded="false" />
+            <element signature="e#11034#11208#0" expanded="false" />
+            <element signature="e#11238#11272#0" expanded="false" />
+            <element signature="e#11316#11407#0" expanded="false" />
+            <element signature="e#11445#11553#0" expanded="false" />
+            <element signature="e#11604#11660#0" expanded="false" />
+            <element signature="e#11712#12043#0" expanded="false" />
+            <element signature="e#12104#12139#0" expanded="false" />
+            <element signature="e#12189#12243#0" expanded="false" />
+            <element signature="e#12295#12351#0" expanded="false" />
+            <element signature="e#12409#12447#0" expanded="false" />
+            <element signature="e#12496#12604#0" expanded="false" />
+            <element signature="e#12655#12774#0" expanded="false" />
+            <element signature="e#12831#12869#0" expanded="false" />
+            <element signature="e#12922#13163#0" expanded="false" />
+            <element signature="e#13222#13258#0" expanded="false" />
+            <element signature="e#13332#13635#0" expanded="false" />
+            <element signature="e#13655#13985#0" expanded="false" />
+            <element signature="e#14037#14070#0" expanded="false" />
+            <element signature="e#14111#14190#0" expanded="false" />
+            <element signature="e#14236#14294#0" expanded="false" />
+            <element signature="e#14348#14531#0" expanded="false" />
+            <element signature="e#14586#14679#0" expanded="false" />
+            <element signature="e#14740#14781#0" expanded="false" />
+            <element signature="e#14843#14884#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
