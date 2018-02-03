@@ -81,15 +81,54 @@
                                 </nuxt-link>
                                 <div class="meta">
                                     <span>
-                                        {{comment.floor}}楼·
-                                        {{comment.created_at}}
+                                        {{comment.floor}}楼 ·
+                                        {{comment.created_at | formatDate}}
                                     </span>
                                 </div>
                             </div>
                         </div>
-                        <div class="comment-wrap"></div>
+                        <div class="comment-wrap">
+                            <p>
+                                {{comment.compiled_content}}
+                            </p>
+                            <div class="tool_group">
+                                <a href="javascript:void (0)">
+                                    <i class="fa fa-thumbs-o-up"></i>
+                                    <span>
+                                        {{comment.likes_count}}人点赞
+                                    </span>
+                                </a>
+                                <a href="javascript:void (0)">
+                                    <i class="fa fa-comment-o"></i>
+                                    <span>回复</span>
+                                </a>
+                            </div>
+                        </div>
                     </div>
-                    <div class="sub-comment-list"></div>
+                    <div v-if="comment.children.length != 0" class="sub-comment-list">
+                        <div class="sub-comment" v-for="(subComment,index) in comment.children" :id="'comment-'+ subComment.id">
+                            <p>
+                                <nuxt-link to="/u/123">
+                                    {{subComment.user.nickname}}
+                                </nuxt-link>
+                                :
+                                <span v-html="subComment.compiled_content"></span>
+                            </p>
+                            <div class="sub-tool-group">
+                                <span>{{subComment.created_at | formatDate}}</span>
+                                <a href="javascript:void (0)">
+                                    <i class="fa fa-comment-o"></i>
+                                    <span>回复</span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="more-comment">
+                            <a class="add-comment-btn" href="javascript:void (0)">
+                                <i class="fa fa-pencil"></i>
+                                <span>添加新评论</span>
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -119,7 +158,7 @@
                             nickname:"七岁就狠拽",
                             badge:null,
                         },
-                        created_at:"2018-01-25T09:40:18.000+08:00",
+                        created_at:"2018-01-25T09:39:18.000+08:00",
                         children_count:4,
                         compiled_content:'今年25岁的我，年纪轻轻月薪就已经达到2800了，加上提成满勤再加上我天生的睿智头脑，平常帮客人拿下拖鞋点下烟得点小费可以拿到3100。觉得自己这几年过得也不容易，现在这么有钱，都不知道怎么花了，开始花钱大手大脚了，以前网吧包夜都是喝自来水，现在敢喝红茶了，还是一晚上买两瓶，甚至打电话出去叫炒河粉而且还要加个鸡蛋，我觉得现在有点迷失自我，有什么办法？希望能回到初心！',
                         children:[
@@ -172,7 +211,7 @@
                             nickname:"七岁就狠拽",
                             badge:null,
                         },
-                        created_at:"2018-01-25T09:40:18.000+08:0",
+                        created_at:"2018-01-25T09:40:18.000+08:00",
                         children_count:3,
                         compiled_content:'作为一名混凝土方块移动工程师，我一直以3000的月薪骄傲，甚至一度迷失自我。。。看了楼主这篇文章，我找回了初心',
                         children:[
@@ -219,7 +258,7 @@
                         floor:4,
                         id: 20080144,
                         liked:false,
-                        likes_count:2,
+                        likes_count:6,
                         note_id:23054702,
                         user: {
                             avatar:'/default-avatar.jpg',
@@ -395,6 +434,9 @@
         padding: 20px 0 30px 0;
         border-bottom: 1px solid #f0f0f0;
     }
+    .note .post .comment-list .comment .author{
+        margin-bottom: 15px;
+    }
     .note .post .comment-list .info{
         display: inline-block;
         vertical-align: middle;
@@ -405,5 +447,63 @@
     .note .post .comment-list .info .meta{
         font-size: 12px;
         color: #969696;
+    }
+    .note .post .comment-list .comment p{
+        font-size: 16px;
+        margin: 10px 0;
+        line-height: 1.5;
+        word-break: break-word!important;
+    }
+    .note .post .comment-list .comment .tool_group a{
+        color: #969696!important;
+        margin-right: 10px;
+    }
+    .note .post .comment-list .comment .tool_group a i{
+        font-size: 18px;
+        margin-right: 5px;
+    }
+    .note .post .comment-list .comment .tool_group a span{
+        font-size: 14px;
+    }
+    .note .post .comment-list .sub-comment-list {
+        border-left: 2px solid #d9d9d9;
+        margin-top: 20px;
+        padding: 5px 0 5px 20px;
+    }
+    .note .post .comment-list .sub-comment{
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+        border-bottom: 1px dashed #f0f0f0;
+    }
+    .note .post .comment-list .sub-comment p {
+        font-size: 14px;
+        line-height: 1.5;
+        margin-bottom: 5px;
+    }
+    .note .post .comment-list .sub-comment p a {
+        color: #3194d0!important;
+    }
+    .note .post .comment-list .sub-tool-group{
+        font-size: 12px;
+        color: #969696;
+    }
+    .note .post .comment-list .sub-tool-group a{
+        margin-left: 10px;
+    }
+    .note .post .comment-list .sub-tool-group a:hover{
+        color: #333!important;
+    }
+    .note .post .comment-list .sub-tool-group a i{
+        margin-right: 5px;
+    }
+    .note .post .comment-list .more-comment {
+        font-size: 14px;
+        color: #969696;
+    }
+    .note .post .comment-list .more-comment a:hover{
+        color:#333!important;
+    }
+    .note .post .comment-list .more-comment a i{
+        margin-right: 5px;
     }
 </style>
